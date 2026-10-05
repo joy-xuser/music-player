@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>SurPlayer 🎵</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css"/>
+</head>
+<body>
+
+<canvas id="viz"></canvas>
+<div class="bg-blur" id="bgBlur"></div>
+
+<!-- ═══ HEADER ═══ -->
+<header class="header">
+  <div class="hd-left">
+    <div class="logo">🎵</div>
+    <div>
+      <div class="brand-name">SurPlayer</div>
+      <div class="brand-sub">Music · Anytime</div>
+    </div>
+  </div>
+  <div class="hd-mid">
+    <div class="live-pill"><span class="dot"></span>LIVE</div>
+  </div>
+  <div class="hd-right">
+    <div class="clock" id="clock">00:00:00</div>
+    <button class="hbtn" id="themeBtn" onclick="toggleTheme()">🌙</button>
+  </div>
+</header>
+
+<!-- ═══ MAIN ═══ -->
+<main class="main">
+
+  <!-- LEFT: Now Playing -->
+  <section class="hero">
+    <div class="art-ring">
+      <div class="art-wrap" id="artWrap">
+        <img id="artImg" src="" alt="" style="display:none"/>
+        <div class="art-fb" id="artFb">🎵</div>
+      </div>
+      <svg class="ring-svg" viewBox="0 0 220 220">
+        <circle class="ring-bg" cx="110" cy="110" r="100"/>
+        <circle class="ring-bar" cx="110" cy="110" r="100" id="ringBar"/>
+      </svg>
+    </div>
+
+    <div class="hero-info">
+      <div class="hero-src" id="heroSrc">— Select a track —</div>
+      <div class="hero-title"  id="heroTitle">SurPlayer</div>
+      <div class="hero-artist" id="heroArtist">Browse tracks on the right</div>
+    </div>
+
+    <div class="eq-bars" id="eqBars">
+      <b></b><b></b><b></b><b></b><b></b><b></b><b></b><b></b><b></b><b></b>
+      <b></b><b></b><b></b><b></b><b></b>
+    </div>
+
+    <div class="kb-hint">
+      Space=Play &nbsp;·&nbsp; ←→=Seek &nbsp;·&nbsp; Shift+←→=Prev/Next &nbsp;·&nbsp; H=Horn
+    </div>
+  </section>
+
+  <!-- RIGHT: Tabs + lists -->
+  <section class="sidebar">
+    <div class="tabs">
+      <button class="tab active" id="tabFree" onclick="setTab('free')">🆓 Free Music</button>
+      <button class="tab"        id="tabYT"   onclick="setTab('yt')">▶ YouTube</button>
+    </div>
+
+    <!-- FREE MUSIC PANEL -->
+    <div class="panel" id="panelFree">
+      <div class="search-row">
+        <input id="searchInp" type="text" placeholder="Search free music…"
+               onkeydown="if(event.key==='Enter')doSearch()"/>
+        <button onclick="doSearch()">Search</button>
+      </div>
+      <div class="chips" id="chips">
+        <button class="chip active" data-q="pop"        onclick="quickSearch(this)">Pop</button>
+        <button class="chip"        data-q="rock"       onclick="quickSearch(this)">Rock</button>
+        <button class="chip"        data-q="jazz"       onclick="quickSearch(this)">Jazz</button>
+        <button class="chip"        data-q="ambient"    onclick="quickSearch(this)">Ambient</button>
+        <button class="chip"        data-q="classical"  onclick="quickSearch(this)">Classical</button>
+        <button class="chip"        data-q="folk"       onclick="quickSearch(this)">Folk</button>
+        <button class="chip"        data-q="electronic" onclick="quickSearch(this)">Electronic</button>
+        <button class="chip"        data-q="lofi"       onclick="quickSearch(this)">Lo-fi</button>
+        <button class="chip"        data-q="acoustic"   onclick="quickSearch(this)">Acoustic</button>
+        <button class="chip"        data-q="chill"      onclick="quickSearch(this)">Chill</button>
+      </div>
+      <div class="list-hd">
+        <span id="freeLabel">Loading…</span>
+        <span class="cc-tag">CC Licensed ✓</span>
+      </div>
+      <ul class="track-list" id="freeList">
+        <li class="row-loading"><div class="spinner"></div>Loading free music…</li>
+      </ul>
+    </div>
+
+    <!-- YOUTUBE PANEL -->
+    <div class="panel hidden" id="panelYT">
+      <div class="yt-box">
+        <div class="yt-icon">▶</div>
+        <div>
+          <div class="yt-box-title">Boithak — Indie</div>
+          <div class="yt-box-sub" id="ytStatus">Connecting to YouTube…</div>
+        </div>
+        <a class="yt-ext" href="https://www.youtube.com/playlist?list=PLTSRCGR4a75c"
+           target="_blank" rel="noopener" title="Open on YouTube">↗</a>
+      </div>
+      <div class="list-hd">
+        <span id="ytLabel">Loading playlist…</span>
+      </div>
+      <ul class="track-list" id="ytList">
+        <li class="row-loading"><div class="spinner"></div>Connecting to YouTube…</li>
+      </ul>
+    </div>
+  </section>
+</main>
+
+<!-- ═══ PLAYER BAR ═══ -->
+<footer class="bar">
+  <div class="bar-prog">
+    <span class="btime" id="tCur">0:00</span>
+    <div class="prog-wrap" id="progWrap">
+      <div class="prog-fill" id="progFill"></div>
+      <div class="prog-dot"  id="progDot"></div>
+    </div>
+    <span class="btime" id="tTot">0:00</span>
+  </div>
+  <div class="bar-btns">
+    <button class="cb sm" id="shuffleBtn" title="Shuffle (S)" onclick="toggleShuffle()">⇄</button>
+    <button class="cb"    id="prevBtn"    title="Prev (Shift+←)"  onclick="doPrev()">⏮</button>
+    <button class="cb xl" id="playBtn"    title="Play (Space)"    onclick="doPlay()">▶</button>
+    <button class="cb"    id="nextBtn"    title="Next (Shift+→)"  onclick="doNext()">⏭</button>
+    <button class="cb sm" id="loopBtn"    title="Loop (L)"        onclick="toggleLoop()">↻</button>
+    <div class="bar-sep"></div>
+    <button class="cb sm" id="muteBtn"   onclick="doMute()">🔊</button>
+    <input  type="range" class="vol" id="volSlider" min="0" max="100" value="80"
+            oninput="setVol(+this.value)"/>
+    <button class="cb sm horn" onclick="blowHorn()" title="Horn (H)">🐚</button>
+  </div>
+</footer>
+
+<!-- Hidden YouTube iframe — MUST be visible enough for IFrame API to initialise -->
+<div id="ytWrap">
+  <iframe id="ytFrame"
+    src="https://www.youtube.com/embed/videoseries?list=PLTSRCGR4a75c&enablejsapi=1&origin=https%3A%2F%2Fjoy-xuser.github.io&rel=0&autoplay=0"
+    allow="autoplay; encrypted-media"
+    frameborder="0"
+    title="YouTube Player">
+  </iframe>
+</div>
+
+<!-- Horn sound (optional) -->
+<audio id="hornAudio" preload="auto">
+  <source src="horn.mp3" type="audio/mpeg">
+</audio>
+
+<div class="toast" id="toast"></div>
+
+<!-- Load YouTube API, then our script -->
+<script src="https://www.youtube.com/iframe_api"></script>
+<script src="app.js"></script>
+</body>
+</html>
