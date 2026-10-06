@@ -1,167 +1,55 @@
-<!DOCTYPE html>
-<html lang="en">
+<!doctype html>
+<html lang="bn">
 <head>
-  <meta charset="UTF-8"/>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>SurPlayer 🎵</title>
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
-  <link rel="stylesheet" href="style.css"/>
-</head>
-<body>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#180b04">
+<title>আগমনী সুর — দেবীর আগমন</title>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+Bengali:wght@400;500;600;700&family=Outfit:wght@400;500;600;700&display=swap');
+:root{--gold:#ffbd4a;--cream:#ffe4ac;--orange:#fb861f;--dark:#160b06;--glass:rgba(20,10,5,.77)}*{box-sizing:border-box}html,body{margin:0;min-height:100%;background:#170b05;color:#fff}body{font-family:Outfit,"Noto Serif Bengali",sans-serif;overflow:hidden}.app{position:relative;min-height:100vh;min-height:100dvh;overflow:hidden;isolation:isolate;background:linear-gradient(180deg,#21170f 0%,#65320f 25%,#d46e20 48%,#281108 100%)}
+/* A new CSS landscape recreates the river-at-sunset scene; the portrait is a cropped artwork detail. */
+.sky{position:absolute;inset:0;z-index:-4;background:radial-gradient(ellipse 13% 18% at 60% 18%,#fff8c2 0,#ffd36f 13%,#ff9a32 32%,#e47820 56%,transparent 100%),linear-gradient(180deg,#201c14 0%,#573217 21%,#e68a32 42%,#a94d1c 57%,#29150c 100%)}
+.sky:before{content:"";position:absolute;inset:0;background:linear-gradient(90deg,rgba(12,8,6,.52),transparent 48%,rgba(15,8,4,.22)),radial-gradient(ellipse at 62% 53%,rgba(255,197,80,.58),transparent 35%),linear-gradient(0deg,rgba(18,8,3,.4),transparent 30%)}
+.trees{position:absolute;z-index:-2;inset:-8% 0 auto;height:28%;opacity:.95;background:radial-gradient(ellipse at 2% 12%,#0c1009 0 10%,transparent 10.5%),radial-gradient(ellipse at 9% 0%,#11150a 0 13%,transparent 13.5%),radial-gradient(ellipse at 21% 0%,#11150a 0 10%,transparent 10.5%),radial-gradient(ellipse at 76% 0%,#0d1209 0 13%,transparent 13.5%),radial-gradient(ellipse at 91% 0%,#0a1009 0 16%,transparent 16.5%),radial-gradient(ellipse at 99% 12%,#11150a 0 13%,transparent 13.5%)}
+.temple{position:absolute;z-index:-2;left:50%;top:17%;width:210px;height:290px;transform:translateX(-32%);opacity:.48;filter:blur(1px);background:linear-gradient(90deg,transparent 0 15%,#342115 15% 85%,transparent 85%);clip-path:polygon(50% 0,60% 12%,60% 20%,70% 26%,70% 32%,79% 39%,79% 46%,92% 51%,87% 55%,87% 100%,13% 100%,13% 55%,8% 51%,21% 46%,21% 39%,30% 32%,30% 26%,40% 20%,40% 12%)}
+.river{position:absolute;z-index:-2;left:22%;right:0;bottom:0;height:49%;background:radial-gradient(ellipse at 47% 12%,rgba(255,231,149,.74),transparent 9%),repeating-linear-gradient(174deg,transparent 0 11px,rgba(255,172,53,.28) 12px 14px,transparent 16px 28px),linear-gradient(180deg,rgba(210,100,30,.12),rgba(37,16,7,.88));clip-path:polygon(18% 0,72% 0,100% 0,100% 100%,0 100%)}
+.waterglow{position:absolute;z-index:-1;bottom:0;left:34%;width:49%;height:43%;background:linear-gradient(180deg,transparent,rgba(255,181,61,.3) 15%,transparent 29%,rgba(255,159,37,.34) 39%,transparent 50%,rgba(255,191,72,.28) 64%,transparent 75%);filter:blur(8px);clip-path:polygon(35% 0,65% 0,90% 100%,12% 100%)}
+.goddess{position:absolute;z-index:-1;left:-5%;top:10%;height:60%;width:min(36vw,530px);object-fit:cover;object-position:left center;mask-image:linear-gradient(90deg,#000 65%,transparent 100%);filter:drop-shadow(12px 20px 28px #1c0b04)}
+header{position:relative;height:104px;padding:0 4.5%;display:flex;align-items:center;gap:21px;background:linear-gradient(90deg,rgba(16,11,6,.68),rgba(16,11,6,.22));border-bottom:1px solid rgba(255,179,53,.16);backdrop-filter:blur(9px);z-index:4}.trident{width:40px;height:58px;color:#ff9e1b;line-height:1}.trident svg{width:100%;height:100%}.brand{font-family:"Noto Serif Bengali",serif;font-size:35px;font-weight:700;color:#ffe4a8;text-shadow:0 2px 12px #9a491c}.brand-sub{border-left:1px solid #a96d32;padding-left:21px;font-family:"Noto Serif Bengali",serif;color:#e8c89c;font-size:18px}.head-actions{margin-left:auto;display:flex;align-items:center;gap:14px}.live{padding:7px 14px;border-radius:22px;background:#c82710;font-size:13px;letter-spacing:.04em}.live i{display:inline-block;width:8px;height:8px;background:white;border-radius:50%;margin-right:6px}.round{display:grid;place-items:center;width:43px;height:43px;color:#ffc144;background:#24160c99;border:1px solid #ffc14438;border-radius:50%;font-size:19px;cursor:pointer;transition:.2s}.round:hover{background:#78400c;color:white;transform:scale(1.06)}
+.hero-title{position:absolute;left:27%;top:31%;width:37%;text-align:center;text-shadow:0 5px 22px #3d1604,0 1px 2px #180900}.hero-title h1{margin:0;font:700 clamp(64px,8vw,120px)/1.1 "Noto Serif Bengali",serif;color:#ffe0a1;letter-spacing:-.045em}.hero-title h2{display:flex;align-items:center;justify-content:center;gap:14px;margin:9px 0 13px;font:500 clamp(24px,3vw,42px)/1.3 "Noto Serif Bengali",serif;color:#ffe7bb}.hero-title h2:before,.hero-title h2:after{content:"✧ ━━━";font-size:16px;letter-spacing:2px;color:#ffcb70}.hero-title p{margin:0;font:400 clamp(16px,1.65vw,24px) "Noto Serif Bengali",serif;color:#fff0d7}.playlist{position:absolute;z-index:2;right:3.5%;top:15.5%;width:min(31.2vw,522px);min-width:415px;height:min(60vh,570px);padding:19px 19px 17px;border:1px solid rgba(236,171,82,.4);border-radius:31px;background:linear-gradient(140deg,rgba(32,17,8,.89),rgba(12,8,6,.89));box-shadow:0 20px 55px #17090265;backdrop-filter:blur(13px);transition:opacity .25s,transform .25s}.playlist-head{height:45px;padding:0 4px 12px;display:flex;align-items:center;justify-content:space-between;color:#ffc044;font-size:16px;letter-spacing:.06em}.playlist-head strong{font-weight:600}.hide-list{color:#f5e6cf;background:#2a1d13;border:1px solid #ffce8450;padding:10px 15px;border-radius:24px;cursor:pointer;font:500 14px Outfit,sans-serif}.tracks{display:grid;gap:2px;max-height:calc(100% - 45px);overflow-y:auto;padding-right:3px;scrollbar-color:#a86b2788 transparent;scrollbar-width:thin}.playlist-state{padding:22px 8px;text-align:center;color:#e9c994;font-size:14px}.playlist-state.error{color:#ffd0ae}.playlist-state button{display:block;margin:12px auto 0;padding:9px 14px;border:1px solid #b57b30;border-radius:99px;background:#251306;color:#f5d9a5;cursor:pointer}.track{height:47px;padding:0 9px;display:grid;grid-template-columns:24px minmax(0,1fr) auto 17px;align-items:center;gap:10px;border:1px solid transparent;border-radius:12px;background:transparent;color:#fff;text-align:left;font:500 15px Outfit,sans-serif;cursor:pointer;transition:.15s}.track:hover{background:#ffffff0d}.track.active{border-color:#d58317;background:linear-gradient(90deg,#86500d9c,#47270765);box-shadow:inset 0 0 16px #f99c201b}.track .number{color:#ddd}.track.active .number{color:#ffc24b}.track .name{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.track .artist{color:#d2c7bc;font-size:13px;white-space:nowrap}.track .playmark{color:#ddd;font-size:13px}
+.quote{position:absolute;right:3.7%;bottom:12.5%;width:16%;text-align:center;color:#ffc448;font:500 clamp(18px,1.6vw,25px)/1.7 "Noto Serif Bengali",serif;text-shadow:0 3px 9px #2c1003}.quote:before{content:"✦ ━━━━━━━━━ ✦";display:block;margin-bottom:6px;font:12px Outfit,sans-serif;letter-spacing:2px}.quote:after{content:"✻ ━━━━━━━ ✻";display:block;margin-top:7px;font:12px Outfit,sans-serif;letter-spacing:2px}
+.player{position:absolute;z-index:3;left:6.5%;bottom:10.2%;width:73.5%;height:194px;padding:26px 27px;display:grid;grid-template-columns:135px minmax(220px,1fr) 1.35fr 210px;align-items:center;gap:27px;border:1px solid rgba(255,191,87,.42);border-radius:40px;background:linear-gradient(110deg,rgba(20,10,5,.91),rgba(14,8,5,.83));box-shadow:0 22px 70px #12070173;backdrop-filter:blur(18px)}.cover{width:135px;height:135px;object-fit:cover;object-position:14% 36%;border:1px solid #ffc34c66;border-radius:18px;box-shadow:0 8px 20px #090503}.song-info{align-self:center;min-width:0}.song-live{display:inline-block;margin-bottom:8px;padding:4px 10px;border-radius:10px;background:#c82710;font-size:12px;line-height:1}.song-title{margin:0 0 5px;font-size:19px;font-weight:600;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.song-artist{font-size:15px;color:#e0d8d1;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.controls{display:flex;align-items:center;justify-content:center;gap:22px}.control{width:60px;height:60px;border:1px solid #ffbd4b40;border-radius:50%;display:grid;place-items:center;background:#25170d;color:#fff;font-size:22px;cursor:pointer}.control:hover{border-color:#ffc24b;background:#53300c}.control.main{width:76px;height:76px;border:0;background:linear-gradient(145deg,#ff9b28,#f06b0d);font-size:27px;box-shadow:0 6px 20px #e46b1947}.control.main:hover{filter:brightness(1.12);transform:scale(1.04)}.side-controls{display:flex;align-items:center;justify-content:flex-end;gap:15px}.volume-icon{font-size:21px;color:#fff}.volume{width:120px;height:5px;accent-color:#ffb43f;cursor:pointer}.player.full{grid-template-columns:135px minmax(200px,1fr) 1.35fr 210px}.timeline{position:absolute;left:15.8%;right:20%;bottom:37px;display:grid;grid-template-columns:1fr;gap:6px}.seek{width:100%;height:7px;accent-color:#ffb542;cursor:pointer}.times{display:flex;justify-content:space-between;color:#ddd;font:500 13px Outfit,sans-serif}.toast{position:absolute;z-index:10;left:50%;bottom:3%;transform:translate(-50%,10px);padding:10px 18px;border:1px solid #ffbd4c66;border-radius:99px;background:#1b0c06eF;color:#ffe1a5;opacity:0;transition:.2s;pointer-events:none}.toast.show{opacity:1;transform:translate(-50%,0)}.app.dim .sky{filter:brightness(.7) saturate(.8)}.app.dim .goddess{filter:brightness(.8) drop-shadow(12px 20px 28px #1c0b04)}.app.list-hidden .playlist{opacity:0;pointer-events:none;transform:translateX(25px)}.show-list{display:none;position:absolute;top:16%;right:4%;z-index:3;border:1px solid #ffbd4b70;border-radius:24px;background:#241207;color:#ffe2a8;padding:12px 18px;cursor:pointer}.app.list-hidden .show-list{display:block}
+@media(max-width:1050px){.playlist{height:min(59vh,530px)}.goddess{width:42vw;left:-8%;height:54%;top:17%}.hero-title{left:22%;width:45%;top:32%}.playlist{right:2%;width:35vw;min-width:360px;top:17%;padding:13px}.track{height:41px;font-size:13px;grid-template-columns:20px minmax(0,1fr) auto 14px;gap:7px}.track .artist{font-size:11px}.player{left:3%;width:78%;grid-template-columns:95px minmax(160px,1fr) 1.1fr 150px;gap:16px;padding:20px;height:172px;border-radius:30px}.cover{width:95px;height:115px}.control{width:48px;height:48px}.control.main{width:64px;height:64px}.controls{gap:12px}.volume{width:75px}.side-controls{gap:8px}.timeline{left:17%;right:19%;bottom:27px}.quote{right:2%;width:17%;bottom:12%;font-size:18px}}
+@media(max-width:700px){body{overflow:auto}.app{min-height:100svh;overflow-y:auto;padding-bottom:24px}.sky{position:fixed}.trees{position:fixed}.temple{top:20%;height:190px;width:130px}.river{position:fixed;height:44%;left:0}.waterglow{position:fixed}.goddess{position:absolute;top:11%;left:-10%;width:73vw;height:39%;opacity:.9}.header{height:72px}header{height:72px;padding:0 16px;gap:10px}.trident{font-size:31px}.brand{font-size:23px}.brand-sub{font-size:13px;padding-left:10px}.head-actions{gap:7px}.live{font-size:10px;padding:6px 9px}.round{width:34px;height:34px;font-size:16px}.hero-title{top:20%;left:29%;width:68%;}.hero-title h1{font-size:clamp(40px,11vw,72px)}.hero-title h2{font-size:23px;gap:5px;margin:4px 0}.hero-title h2:before,.hero-title h2:after{font-size:9px}.hero-title p{font-size:14px}.playlist{position:relative;top:auto;right:auto;width:calc(100% - 28px);min-width:0;height:auto;max-height:43vh;margin:39vh 14px 0;padding:13px 14px;border-radius:23px}.tracks{max-height:calc(43vh - 75px)}.playlist-head{height:39px;font-size:14px}.playlist-head strong{max-width:62%;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}.hide-list{padding:8px 12px;font-size:12px}.track{height:39px;font-size:13px}.track .artist{font-size:11px}.player{position:relative;left:auto;bottom:auto;width:calc(100% - 28px);height:auto;min-height:210px;margin:16px 14px 0;padding:16px;border-radius:24px;grid-template-columns:68px 1fr;grid-template-rows:auto auto auto;gap:10px 13px}.cover{width:68px;height:76px;border-radius:12px}.song-live{font-size:10px;margin-bottom:4px}.song-title{font-size:15px;margin-bottom:3px}.song-artist{font-size:12px}.controls{grid-column:1/3;grid-row:2;gap:20px}.control{width:43px;height:43px;font-size:17px}.control.main{width:56px;height:56px;font-size:22px}.side-controls{grid-column:1/3;grid-row:3;justify-content:center}.volume{width:100px}.timeline{position:relative;grid-column:1/3;grid-row:4;left:auto;right:auto;bottom:auto;gap:2px}.seek{height:6px}.times{font-size:11px}.quote{position:relative;right:auto;bottom:auto;width:auto;margin:16px 24px 24px;font-size:18px}.show-list{position:fixed;top:82px;right:12px}.app.list-hidden .playlist{display:none}.app.list-hidden .player{margin-top:39vh}.app.list-hidden .quote{margin-top:16px}}
+</style></head>
+<body><main class="app" id="app"><div class="sky"></div><div class="trees"></div><div class="temple"></div><div class="river"></div><div class="waterglow"></div><img class="goddess" src="assets/durga-portrait.png" alt="সোনালি আলোয় দুর্গা প্রতিমা ও ত্রিশূল">
+<header><span class="trident" aria-hidden="true"><svg viewBox="0 0 40 58"><path d="M20 56V27M20 27C9 19 8 10 8 4c7 4 11 9 12 17C21 12 26 6 33 3c0 10-3 18-13 24M8 11c-6 8-4 16 2 20M32 10c6 8 4 16-2 21" fill="none" stroke="currentColor" stroke-width="3.3" stroke-linecap="round" stroke-linejoin="round"/></svg></span><div class="brand">আগমনী সুর</div><div class="brand-sub">দেবীর আগমন</div><div class="head-actions"><span class="live"><i></i>LIVE</span><button class="round theme" aria-label="আলো বদলান" title="আলো বদলান">☼</button><button class="round fullscreen" aria-label="পূর্ণ পর্দা" title="পূর্ণ পর্দা">⛶</button></div></header>
+<section class="hero-title" aria-label="আগমনী সুর"><h1>আগমনী সুর</h1><h2>দেবীর আগমন</h2><p>শিউলি-ভেজা ভোর · ঢাকের তালে · আগমনের আবেশ</p></section>
+<aside class="playlist" aria-label="গানের তালিকা"><div class="playlist-head"><strong id="playlist-title">♫ &nbsp; Loading playlist…</strong><button class="hide-list">⌃ &nbsp; Hide List</button></div><div class="tracks" id="tracks"></div><div class="playlist-state" id="playlist-state" role="status">Connecting to Invidious…</div></aside><button class="show-list">♫ &nbsp; Show playlist</button>
+<section class="player" aria-label="মিউজিক প্লেয়ার"><img class="cover" src="assets/durga-portrait.png" alt="দুর্গা প্রতিমার অ্যালবাম কভার"><div class="song-info"><span class="song-live">● LIVE</span><h3 class="song-title">Chandipath (Recitation)</h3><div class="song-artist">Birendra Krishna Bhadra</div></div><div class="controls"><button class="control prev" aria-label="আগের গান">|◀</button><button class="control main toggle" aria-label="বিরতি দিন">Ⅱ</button><button class="control next" aria-label="পরের গান">▶|</button></div><div class="side-controls"><span class="volume-icon">◖))</span><input class="volume" aria-label="ভলিউম" type="range" min="0" max="100" value="68"><button class="round fullscreen" aria-label="পূর্ণ পর্দা" title="পূর্ণ পর্দা">⛶</button></div><div class="timeline"><input class="seek" type="range" min="0" max="405" value="138" aria-label="গানের অবস্থান"><div class="times"><span class="elapsed">02:18</span><span>06:45</span></div></div></section>
+<div class="quote">আগমনের আবেশে<br>জেগে উঠুক শরতের ভোর</div><div class="toast" role="status" aria-live="polite"></div><audio id="audio" preload="none"></audio></main>
+<script>
+const DEFAULT_PLAYLIST='PLTSRCGR4a75c';
+const app=document.querySelector('#app'),list=document.querySelector('#tracks'),toast=document.querySelector('.toast'),audio=document.querySelector('#audio'),state=document.querySelector('#playlist-state'),titleEl=document.querySelector('#playlist-title');
+let songs=[],current=-1,currentFormat=null,currentInstance='',proxyFallbackUsed=false,audioFormatFallbackAttempted=false,playlistTitle='Playlist',seek=document.querySelector('.seek'),volume=document.querySelector('.volume');
+function msg(s){toast.textContent=s;toast.classList.add('show');clearTimeout(msg.t);msg.t=setTimeout(()=>toast.classList.remove('show'),2200)}
+function fmt(n){if(!Number.isFinite(n))return '00:00';return `${String(Math.floor(n/60)).padStart(2,'0')}:${String(Math.floor(n%60)).padStart(2,'0')}`}
+function duration(s){return Number.isFinite(+s)&&+s>0?+s:0}
+function escapeHtml(s=''){return String(s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]))}
+function render(){titleEl.textContent=`♫  ${playlistTitle} (${songs.length})`;list.innerHTML=songs.map((s,i)=>`<button class="track ${i===current?'active':''}" data-index="${i}" title="${escapeHtml(s.title)}"><span class="number">${i===current?'▥':i+1}</span><span class="name">${escapeHtml(s.title)}</span><span class="artist">${escapeHtml(s.author||'YouTube')}</span><span class="playmark">▶</span></button>`).join('');list.querySelectorAll('.track').forEach(b=>b.addEventListener('click',()=>playTrack(+b.dataset.index)));state.hidden=true}
+function selectUI(i){current=i;const s=songs[i];document.querySelector('.song-title').textContent=s.title;document.querySelector('.song-artist').textContent=s.author||'YouTube';document.querySelector('.times span:last-child').textContent=fmt(duration(s.lengthSeconds));document.querySelector('.elapsed').textContent='00:00';seek.value=0;seek.max=duration(s.lengthSeconds)||1;render()}
+function playerError(message){if(/PO.?Token|Companion is starting|valid potoken/i.test(message))return 'Invidious Companion এখন YouTube PO Token তৈরি করতে পারছে না। ৩০–৬০ সেকেন্ড অপেক্ষা করে আবার চেষ্টা করুন। সমস্যা থাকলে অন্য/নিজস্ব Invidious instance সেট করুন.\n'+message;return message}
+function playbackFailure(message){state.hidden=false;state.classList.add('error');state.innerHTML=`${escapeHtml(message).replaceAll('\n','<br>')}<button id="retry-audio">অন্য instance দিয়ে আবার চেষ্টা</button>`;document.querySelector('#retry-audio').addEventListener('click',()=>playTrack(current,{fresh:true,excludeInstance:currentInstance}));msg(message.split('\n')[0])}
+async function playTrack(i,options={}){if(!songs.length)return;current=(i+songs.length)%songs.length;const s=songs[current];selectUI(current);audio.pause();currentFormat=null;currentInstance='';audioFormatFallbackAttempted=false;audio.removeAttribute('src');audio.load();state.hidden=true;msg('Invidious থেকে audio stream আনা হচ্ছে…');try{const params=new URLSearchParams({videoId:s.videoId});if(options.fresh)params.set('fresh','1');if(options.excludeInstance)params.set('excludeInstance',options.excludeInstance);audio.src=`/api/audio?${params}`;audio.volume=volume.value/100;await audio.play();msg(`চলছে: ${s.title}`)}catch(e){if(e.name==='NotAllowedError'){playbackFailure('প্লে করতে আবার ▶ চাপুন।');return}playbackFailure(playerError(e.message||'Audio stream পাওয়া যায়নি।'));console.error(e)}}
+async function loadPlaylist(){state.hidden=false;state.classList.remove('error');state.textContent='Invidious playlist load হচ্ছে…';try{const r=await fetch(`/api/playlist?playlistId=${encodeURIComponent(DEFAULT_PLAYLIST)}`);const data=await r.json();if(!r.ok)throw new Error(data.error||'Playlist load করা যায়নি');playlistTitle=data.title||'YouTube playlist';songs=data.videos||[];if(!songs.length)throw new Error('Playlist-এ কোনো public video পাওয়া যায়নি।');render();const first=songs[0];document.querySelector('.song-title').textContent=first.title;document.querySelector('.song-artist').textContent=first.author||'YouTube';document.querySelector('.times span:last-child').textContent=fmt(first.lengthSeconds);seek.max=duration(first.lengthSeconds)||1;state.textContent=`${songs.length} tracks loaded via ${data.instance}`;setTimeout(()=>state.hidden=true,2200)}catch(e){state.classList.add('error');state.innerHTML=`${escapeHtml(e.message).replaceAll('\n','<br>')}<button id="retry-playlist">আবার চেষ্টা করুন</button>`;document.querySelector('#retry-playlist').addEventListener('click',loadPlaylist);console.error(e)}}
+document.querySelector('.toggle').addEventListener('click',async()=>{if(!songs.length){await loadPlaylist();return}if(current<0){await playTrack(0);return}if(audio.paused){try{await audio.play()}catch(e){msg(e.message)}}else audio.pause()});document.querySelector('.next').addEventListener('click',()=>songs.length&&playTrack(current+1));document.querySelector('.prev').addEventListener('click',()=>songs.length&&playTrack(current<=0?songs.length-1:current-1));
+audio.addEventListener('play',()=>{document.querySelector('.toggle').textContent='Ⅱ';document.querySelector('.toggle').setAttribute('aria-label','বিরতি দিন')});audio.addEventListener('pause',()=>{document.querySelector('.toggle').textContent='▶';document.querySelector('.toggle').setAttribute('aria-label','চালান')});audio.addEventListener('timeupdate',()=>{seek.value=audio.currentTime;document.querySelector('.elapsed').textContent=fmt(audio.currentTime)});audio.addEventListener('loadedmetadata',()=>{seek.max=audio.duration||seek.max;document.querySelector('.times span:last-child').textContent=fmt(audio.duration)});audio.addEventListener('ended',()=>songs.length&&playTrack(current+1));audio.addEventListener('error',()=>{if(!audio.src)return;if(!audioFormatFallbackAttempted&&songs[current]){audioFormatFallbackAttempted=true;msg('WebM না চলায় MP4 audio format চেষ্টা করছি…');audio.src=`/api/audio?videoId=${encodeURIComponent(songs[current].videoId)}&format=mp4`;audio.load();audio.play().catch(()=>playbackFailure('MP4 ও WebM—দুই audio format-ই ব্যর্থ। Retry চাপুন।'));return}playbackFailure('Audio relay বা upstream stream ব্যর্থ হয়েছে। আবার চেষ্টা করলে server অন্য instance নেবে।');console.error('Audio stream error',audio.error)});
+seek.addEventListener('input',()=>{if(Number.isFinite(audio.duration))audio.currentTime=+seek.value});volume.addEventListener('input',()=>{audio.volume=volume.value/100;msg('ভলিউম '+volume.value+'%')});document.querySelector('.theme').addEventListener('click',()=>{app.classList.toggle('dim');msg(app.classList.contains('dim')?'সন্ধ্যার আলো':'উষ্ণ আলো')});document.querySelectorAll('.fullscreen').forEach(b=>b.addEventListener('click',async()=>{try{document.fullscreenElement?await document.exitFullscreen():await app.requestFullscreen()}catch{}}));document.querySelector('.hide-list').addEventListener('click',()=>app.classList.add('list-hidden'));document.querySelector('.show-list').addEventListener('click',()=>app.classList.remove('list-hidden'));document.addEventListener('keydown',e=>{if(e.code==='Space'&&!['BUTTON','INPUT'].includes(document.activeElement.tagName)){e.preventDefault();document.querySelector('.toggle').click()}if(e.code==='ArrowRight'&&songs.length)playTrack(current+1);if(e.code==='ArrowLeft'&&songs.length)playTrack(current<=0?songs.length-1:current-1)});loadPlaylist();
+</script></body></html>
 
-<canvas id="viz"></canvas>
-<div class="bg-blur" id="bgBlur"></div>
 
-<!-- ═══ HEADER ═══ -->
-<header class="header">
-  <div class="hd-left">
-    <div class="logo">🎵</div>
-    <div>
-      <div class="brand-name">SurPlayer</div>
-      <div class="brand-sub">Music · Anytime</div>
-    </div>
-  </div>
-  <div class="hd-mid">
-    <div class="live-pill"><span class="dot"></span>LIVE</div>
-  </div>
-  <div class="hd-right">
-    <div class="clock" id="clock">00:00:00</div>
-    <button class="hbtn" id="themeBtn" onclick="toggleTheme()">🌙</button>
-  </div>
-</header>
 
-<!-- ═══ MAIN ═══ -->
-<main class="main">
 
-  <!-- LEFT: Now Playing -->
-  <section class="hero">
-    <div class="art-ring">
-      <div class="art-wrap" id="artWrap">
-        <img id="artImg" src="" alt="" style="display:none"/>
-        <div class="art-fb" id="artFb">🎵</div>
-      </div>
-      <svg class="ring-svg" viewBox="0 0 220 220">
-        <circle class="ring-bg" cx="110" cy="110" r="100"/>
-        <circle class="ring-bar" cx="110" cy="110" r="100" id="ringBar"/>
-      </svg>
-    </div>
 
-    <div class="hero-info">
-      <div class="hero-src" id="heroSrc">— Select a track —</div>
-      <div class="hero-title"  id="heroTitle">SurPlayer</div>
-      <div class="hero-artist" id="heroArtist">Browse tracks on the right</div>
-    </div>
 
-    <div class="eq-bars" id="eqBars">
-      <b></b><b></b><b></b><b></b><b></b><b></b><b></b><b></b><b></b><b></b>
-      <b></b><b></b><b></b><b></b><b></b>
-    </div>
 
-    <div class="kb-hint">
-      Space=Play &nbsp;·&nbsp; ←→=Seek &nbsp;·&nbsp; Shift+←→=Prev/Next &nbsp;·&nbsp; H=Horn
-    </div>
-  </section>
 
-  <!-- RIGHT: Tabs + lists -->
-  <section class="sidebar">
-    <div class="tabs">
-      <button class="tab active" id="tabFree" onclick="setTab('free')">🆓 Free Music</button>
-      <button class="tab"        id="tabYT"   onclick="setTab('yt')">▶ YouTube</button>
-    </div>
-
-    <!-- FREE MUSIC PANEL -->
-    <div class="panel" id="panelFree">
-      <div class="search-row">
-        <input id="searchInp" type="text" placeholder="Search free music…"
-               onkeydown="if(event.key==='Enter')doSearch()"/>
-        <button onclick="doSearch()">Search</button>
-      </div>
-      <div class="chips" id="chips">
-        <button class="chip active" data-q="pop"        onclick="quickSearch(this)">Pop</button>
-        <button class="chip"        data-q="rock"       onclick="quickSearch(this)">Rock</button>
-        <button class="chip"        data-q="jazz"       onclick="quickSearch(this)">Jazz</button>
-        <button class="chip"        data-q="ambient"    onclick="quickSearch(this)">Ambient</button>
-        <button class="chip"        data-q="classical"  onclick="quickSearch(this)">Classical</button>
-        <button class="chip"        data-q="folk"       onclick="quickSearch(this)">Folk</button>
-        <button class="chip"        data-q="electronic" onclick="quickSearch(this)">Electronic</button>
-        <button class="chip"        data-q="lofi"       onclick="quickSearch(this)">Lo-fi</button>
-        <button class="chip"        data-q="acoustic"   onclick="quickSearch(this)">Acoustic</button>
-        <button class="chip"        data-q="chill"      onclick="quickSearch(this)">Chill</button>
-      </div>
-      <div class="list-hd">
-        <span id="freeLabel">Loading…</span>
-        <span class="cc-tag">CC Licensed ✓</span>
-      </div>
-      <ul class="track-list" id="freeList">
-        <li class="row-loading"><div class="spinner"></div>Loading free music…</li>
-      </ul>
-    </div>
-
-    <!-- YOUTUBE PANEL -->
-    <div class="panel hidden" id="panelYT">
-      <div class="yt-box">
-        <div class="yt-icon">▶</div>
-        <div>
-          <div class="yt-box-title">Boithak — Indie</div>
-          <div class="yt-box-sub" id="ytStatus">Connecting to YouTube…</div>
-        </div>
-        <a class="yt-ext" href="https://www.youtube.com/playlist?list=PLTSRCGR4a75c"
-           target="_blank" rel="noopener" title="Open on YouTube">↗</a>
-      </div>
-      <div class="list-hd">
-        <span id="ytLabel">Loading playlist…</span>
-      </div>
-      <ul class="track-list" id="ytList">
-        <li class="row-loading"><div class="spinner"></div>Connecting to YouTube…</li>
-      </ul>
-    </div>
-  </section>
-</main>
-
-<!-- ═══ PLAYER BAR ═══ -->
-<footer class="bar">
-  <div class="bar-prog">
-    <span class="btime" id="tCur">0:00</span>
-    <div class="prog-wrap" id="progWrap">
-      <div class="prog-fill" id="progFill"></div>
-      <div class="prog-dot"  id="progDot"></div>
-    </div>
-    <span class="btime" id="tTot">0:00</span>
-  </div>
-  <div class="bar-btns">
-    <button class="cb sm" id="shuffleBtn" title="Shuffle (S)" onclick="toggleShuffle()">⇄</button>
-    <button class="cb"    id="prevBtn"    title="Prev (Shift+←)"  onclick="doPrev()">⏮</button>
-    <button class="cb xl" id="playBtn"    title="Play (Space)"    onclick="doPlay()">▶</button>
-    <button class="cb"    id="nextBtn"    title="Next (Shift+→)"  onclick="doNext()">⏭</button>
-    <button class="cb sm" id="loopBtn"    title="Loop (L)"        onclick="toggleLoop()">↻</button>
-    <div class="bar-sep"></div>
-    <button class="cb sm" id="muteBtn"   onclick="doMute()">🔊</button>
-    <input  type="range" class="vol" id="volSlider" min="0" max="100" value="80"
-            oninput="setVol(+this.value)"/>
-    <button class="cb sm horn" onclick="blowHorn()" title="Horn (H)">🐚</button>
-  </div>
-</footer>
-
-<!-- Hidden YouTube iframe — MUST be visible enough for IFrame API to initialise -->
-<div id="ytWrap">
-  <iframe id="ytFrame"
-    src="https://www.youtube.com/embed/videoseries?list=PLTSRCGR4a75c&enablejsapi=1&origin=https%3A%2F%2Fjoy-xuser.github.io&rel=0&autoplay=0"
-    allow="autoplay; encrypted-media"
-    frameborder="0"
-    title="YouTube Player">
-  </iframe>
-</div>
-
-<!-- Horn sound (optional) -->
-<audio id="hornAudio" preload="auto">
-  <source src="horn.mp3" type="audio/mpeg">
-</audio>
-
-<div class="toast" id="toast"></div>
-
-<!-- Load YouTube API, then our script -->
-<script src="https://www.youtube.com/iframe_api"></script>
-<script src="app.js"></script>
-</body>
-</html>
