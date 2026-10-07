@@ -1,0 +1,3660 @@
+{
+  "categories": [
+    {
+      "id": "mahalaya",
+      "name": "Mahalaya"
+    },
+    {
+      "id": "shasthi",
+      "name": "Shasthi"
+    },
+    {
+      "id": "saptami",
+      "name": "Saptami"
+    },
+    {
+      "id": "ashtami",
+      "name": "Ashtami"
+    },
+    {
+      "id": "navami",
+      "name": "Navami"
+    },
+    {
+      "id": "dashami",
+      "name": "Dashami"
+    }
+  ],
+  "tracks": [
+    {
+      "id": "ab531fd6-b778-48ba-97db-62fa66df35b1",
+      "kind": "youtube",
+      "videoId": "LUgpPmj6nR8",
+      "title": "Navjot Ahuja - Khat (Official Audio)",
+      "author": "Navjot Ahuja",
+      "lengthSeconds": 297,
+      "videoThumbnails": [
+        {
+          "quality": "maxres",
+          "url": "https://invidious.f5.si/vi/LUgpPmj6nR8/maxres.jpg",
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "quality": "maxresdefault",
+          "url": "https://invidious.f5.si/vi/LUgpPmj6nR8/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "quality": "sddefault",
+          "url": "https://invidious.f5.si/vi/LUgpPmj6nR8/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        {
+          "quality": "high",
+          "url": "https://invidious.f5.si/vi/LUgpPmj6nR8/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        {
+          "quality": "medium",
+          "url": "https://invidious.f5.si/vi/LUgpPmj6nR8/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        {
+          "quality": "default",
+          "url": "https://invidious.f5.si/vi/LUgpPmj6nR8/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        {
+          "quality": "start",
+          "url": "https://invidious.f5.si/vi/LUgpPmj6nR8/1.jpg",
+          "width": 120,
+          "height": 90
+        },
+        {
+          "quality": "middle",
+          "url": "https://invidious.f5.si/vi/LUgpPmj6nR8/2.jpg",
+          "width": 120,
+          "height": 90
+        },
+        {
+          "quality": "end",
+          "url": "https://invidious.f5.si/vi/LUgpPmj6nR8/3.jpg",
+          "width": 120,
+          "height": 90
+        }
+      ],
+      "categoryId": "mahalaya",
+      "addedAt": "2026-10-06T11:38:07.469Z"
+    },
+    {
+      "id": "3ea32a85-5f85-41d9-837e-582dc94675e4",
+      "kind": "youtube",
+      "videoId": "K9opdAw3Osk",
+      "title": "Zinda",
+      "author": "Amit Trivedi",
+      "lengthSeconds": 290,
+      "videoThumbnails": [
+        {
+          "quality": "maxres",
+          "url": "https://inv.nadeko.net/vi/K9opdAw3Osk/maxres.jpg",
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "quality": "maxresdefault",
+          "url": "https://inv.nadeko.net/vi/K9opdAw3Osk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "quality": "sddefault",
+          "url": "https://inv.nadeko.net/vi/K9opdAw3Osk/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        {
+          "quality": "high",
+          "url": "https://inv.nadeko.net/vi/K9opdAw3Osk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        {
+          "quality": "medium",
+          "url": "https://inv.nadeko.net/vi/K9opdAw3Osk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        {
+          "quality": "default",
+          "url": "https://inv.nadeko.net/vi/K9opdAw3Osk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        {
+          "quality": "start",
+          "url": "https://inv.nadeko.net/vi/K9opdAw3Osk/1.jpg",
+          "width": 120,
+          "height": 90
+        },
+        {
+          "quality": "middle",
+          "url": "https://inv.nadeko.net/vi/K9opdAw3Osk/2.jpg",
+          "width": 120,
+          "height": 90
+        },
+        {
+          "quality": "end",
+          "url": "https://inv.nadeko.net/vi/K9opdAw3Osk/3.jpg",
+          "width": 120,
+          "height": 90
+        }
+      ],
+      "categoryId": "mahalaya",
+      "addedAt": "2026-10-06T13:26:51.654Z"
+    },
+    {
+      "id": "446548e3-56d0-4c97-a839-e9d0bda8f4d3",
+      "kind": "youtube",
+      "videoId": "wZabn1sK0Gs",
+      "title": "Sawaaar Loon Unplugged",
+      "author": "Monali Thakur",
+      "lengthSeconds": 314,
+      "videoThumbnails": [
+        {
+          "quality": "maxres",
+          "url": "https://inv.nadeko.net/vi/wZabn1sK0Gs/maxres.jpg",
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "quality": "maxresdefault",
+          "url": "https://inv.nadeko.net/vi/wZabn1sK0Gs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "quality": "sddefault",
+          "url": "https://inv.nadeko.net/vi/wZabn1sK0Gs/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        {
+          "quality": "high",
+          "url": "https://inv.nadeko.net/vi/wZabn1sK0Gs/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        {
+          "quality": "medium",
+          "url": "https://inv.nadeko.net/vi/wZabn1sK0Gs/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        {
+          "quality": "default",
+          "url": "https://inv.nadeko.net/vi/wZabn1sK0Gs/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        {
+          "quality": "start",
+          "url": "https://inv.nadeko.net/vi/wZabn1sK0Gs/1.jpg",
+          "width": 120,
+          "height": 90
+        },
+        {
+          "quality": "middle",
+          "url": "https://inv.nadeko.net/vi/wZabn1sK0Gs/2.jpg",
+          "width": 120,
+          "height": 90
+        },
+        {
+          "quality": "end",
+          "url": "https://inv.nadeko.net/vi/wZabn1sK0Gs/3.jpg",
+          "width": 120,
+          "height": 90
+        }
+      ],
+      "categoryId": "mahalaya",
+      "addedAt": "2026-10-06T13:26:51.656Z"
+    },
+    {
+      "id": "32eff214-7ad6-4e33-80ae-ee4a8f3f3898",
+      "kind": "youtube",
+      "videoId": "Vq8jE15037A",
+      "title": "London Thumkda Unplugged",
+      "author": "Amit Trivedi",
+      "lengthSeconds": 319,
+      "videoThumbnails": [
+        {
+          "quality": "maxres",
+          "url": "https://inv.nadeko.net/vi/Vq8jE15037A/maxres.jpg",
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "quality": "maxresdefault",
+          "url": "https://inv.nadeko.net/vi/Vq8jE15037A/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "quality": "sddefault",
+          "url": "https://inv.nadeko.net/vi/Vq8jE15037A/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        {
+          "quality": "high",
+          "url": "https://inv.nadeko.net/vi/Vq8jE15037A/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        {
+          "quality": "medium",
+          "url": "https://inv.nadeko.net/vi/Vq8jE15037A/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        {
+          "quality": "default",
+          "url": "https://inv.nadeko.net/vi/Vq8jE15037A/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        {
+          "quality": "start",
+          "url": "https://inv.nadeko.net/vi/Vq8jE15037A/1.jpg",
+          "width": 120,
+          "height": 90
+        },
+        {
+          "quality": "middle",
+          "url": "https://inv.nadeko.net/vi/Vq8jE15037A/2.jpg",
+          "width": 120,
+          "height": 90
+        },
+        {
+          "quality": "end",
+          "url": "https://inv.nadeko.net/vi/Vq8jE15037A/3.jpg",
+          "width": 120,
+          "height": 90
+        }
+      ],
+      "categoryId": "mahalaya",
+      "addedAt": "2026-10-06T13:26:51.656Z"
+    },
+    {
+      "id": "a6067c53-e214-46c0-a5f6-bb7f7e134534",
+      "kind": "youtube",
+      "videoId": "_EeINgJo9Uw",
+      "title": "Pardesi",
+      "author": "Amit Trivedi",
+      "lengthSeconds": 286,
+      "videoThumbnails": [
+        {
+          "quality": "maxres",
+          "url": "https://inv.nadeko.net/vi/_EeINgJo9Uw/maxres.jpg",
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "quality": "maxresdefault",
+          "url": "https://inv.nadeko.net/vi/_EeINgJo9Uw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "quality": "sddefault",
+          "url": "https://inv.nadeko.net/vi/_EeINgJo9Uw/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        {
+          "quality": "high",
+          "url": "https://inv.nadeko.net/vi/_EeINgJo9Uw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        {
+          "quality": "medium",
+          "url": "https://inv.nadeko.net/vi/_EeINgJo9Uw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        {
+          "quality": "default",
+          "url": "https://inv.nadeko.net/vi/_EeINgJo9Uw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        {
+          "quality": "start",
+          "url": "https://inv.nadeko.net/vi/_EeINgJo9Uw/1.jpg",
+          "width": 120,
+          "height": 90
+        },
+        {
+          "quality": "middle",
+          "url": "https://inv.nadeko.net/vi/_EeINgJo9Uw/2.jpg",
+          "width": 120,
+          "height": 90
+        },
+        {
+          "quality": "end",
+          "url": "https://inv.nadeko.net/vi/_EeINgJo9Uw/3.jpg",
+          "width": 120,
+          "height": 90
+        }
+      ],
+      "categoryId": "mahalaya",
+      "addedAt": "2026-10-06T13:26:51.656Z"
+    },
+    {
+      "id": "5b08a333-46db-401e-af6c-f395ba8279f7",
+      "kind": "youtube",
+      "videoId": "Ut9XhS38ivI",
+      "title": "Gulabi (Unplugged)",
+      "author": "Sachin Jigar",
+      "lengthSeconds": 231,
+      "videoThumbnails": [
+        {
+          "quality": "maxres",
+          "url": "https://inv.nadeko.net/vi/Ut9XhS38ivI/maxres.jpg",
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "quality": "maxresdefault",
+          "url": "https://inv.nadeko.net/vi/Ut9XhS38ivI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "quality": "sddefault",
+          "url": "https://inv.nadeko.net/vi/Ut9XhS38ivI/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        {
+          "quality": "high",
+          "url": "https://inv.nadeko.net/vi/Ut9XhS38ivI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        {
+          "quality": "medium",
+          "url": "https://inv.nadeko.net/vi/Ut9XhS38ivI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        {
+          "quality": "default",
+          "url": "https://inv.nadeko.net/vi/Ut9XhS38ivI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        {
+          "quality": "start",
+          "url": "https://inv.nadeko.net/vi/Ut9XhS38ivI/1.jpg",
+          "width": 120,
+          "height": 90
+        },
+        {
+          "quality": "middle",
+          "url": "https://inv.nadeko.net/vi/Ut9XhS38ivI/2.jpg",
+          "width": 120,
+          "height": 90
+        },
+        {
+          "quality": "end",
+          "url": "https://inv.nadeko.net/vi/Ut9XhS38ivI/3.jpg",
+          "width": 120,
+          "height": 90
+        }
+      ],
+      "categoryId": "mahalaya",
+      "addedAt": "2026-10-06T13:26:51.656Z"
+    },
+    {
+      "id": "a0bd9655-862c-4c58-b7b4-8f2e82c4f8ae",
+      "kind": "youtube",
+      "videoId": "IOSXOx1OVDk",
+      "title": "Preet Unplugged",
+      "author": "Jasleen Royal",
+      "lengthSeconds": 349,
+      "videoThumbnails": [
+        {
+          "quality": "maxres",
+          "url": "https://inv.nadeko.net/vi/IOSXOx1OVDk/maxres.jpg",
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "quality": "maxresdefault",
+          "url": "https://inv.nadeko.net/vi/IOSXOx1OVDk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "quality": "sddefault",
+          "url": "https://inv.nadeko.net/vi/IOSXOx1OVDk/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        {
+          "quality": "high",
+          "url": "https://inv.nadeko.net/vi/IOSXOx1OVDk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        {
+          "quality": "medium",
+          "url": "https://inv.nadeko.net/vi/IOSXOx1OVDk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        {
+          "quality": "default",
+          "url": "https://inv.nadeko.net/vi/IOSXOx1OVDk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        {
+          "quality": "start",
+          "url": "https://inv.nadeko.net/vi/IOSXOx1OVDk/1.jpg",
+          "width": 120,
+          "height": 90
+        },
+        {
+          "quality": "middle",
+          "url": "https://inv.nadeko.net/vi/IOSXOx1OVDk/2.jpg",
+          "width": 120,
+          "height": 90
+        },
+        {
+          "quality": "end",
+          "url": "https://inv.nadeko.net/vi/IOSXOx1OVDk/3.jpg",
+          "width": 120,
+          "height": 90
+        }
+      ],
+      "categoryId": "mahalaya",
+      "addedAt": "2026-10-06T13:26:51.656Z"
+    },
+    {
+      "id": "bfffc9e2-b4fc-411a-9d0b-6fe83a979204",
+      "kind": "youtube",
+      "videoId": "xXDb-xTKXfU",
+      "title": "Sun Raha Hai Na Tu Unplugged",
+      "author": "Shreya Ghoshal Official",
+      "lengthSeconds": 441,
+      "videoThumbnails": [
+        {
+          "quality": "maxres",
+          "url": "https://inv.nadeko.net/vi/xXDb-xTKXfU/maxres.jpg",
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "quality": "maxresdefault",
+          "url": "https://inv.nadeko.net/vi/xXDb-xTKXfU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "quality": "sddefault",
+          "url": "https://inv.nadeko.net/vi/xXDb-xTKXfU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        {
+          "quality": "high",
+          "url": "https://inv.nadeko.net/vi/xXDb-xTKXfU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        {
+          "quality": "medium",
+          "url": "https://inv.nadeko.net/vi/xXDb-xTKXfU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        {
+          "quality": "default",
+          "url": "https://inv.nadeko.net/vi/xXDb-xTKXfU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        {
+          "quality": "start",
+          "url": "https://inv.nadeko.net/vi/xXDb-xTKXfU/1.jpg",
+          "width": 120,
+          "height": 90
+        },
+        {
+          "quality": "middle",
+          "url": "https://inv.nadeko.net/vi/xXDb-xTKXfU/2.jpg",
+          "width": 120,
+          "height": 90
+        },
+        {
+          "quality": "end",
+          "url": "https://inv.nadeko.net/vi/xXDb-xTKXfU/3.jpg",
+          "width": 120,
+          "height": 90
+        }
+      ],
+      "categoryId": "mahalaya",
+      "addedAt": "2026-10-06T13:26:51.656Z"
+    },
+    {
+      "id": "2196ae97-7324-4ad7-a9e2-9647f0dbe9c3",
+      "kind": "youtube",
+      "videoId": "6mbzgt6Pgn0",
+      "title": "Iktara (MTV Unplugged Version)",
+      "author": "Amit Trivedi",
+      "lengthSeconds": 554,
+      "videoThumbnails": [
+        {
+          "quality": "maxres",
+          "url": "https://inv.nadeko.net/vi/6mbzgt6Pgn0/maxres.jpg",
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "quality": "maxresdefault",
+          "url": "https://inv.nadeko.net/vi/6mbzgt6Pgn0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "quality": "sddefault",
+          "url": "https://inv.nadeko.net/vi/6mbzgt6Pgn0/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        {
+          "quality": "high",
+          "url": "https://inv.nadeko.net/vi/6mbzgt6Pgn0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        {
+          "quality": "medium",
+          "url": "https://inv.nadeko.net/vi/6mbzgt6Pgn0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        {
+          "quality": "default",
+          "url": "https://inv.nadeko.net/vi/6mbzgt6Pgn0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        {
+          "quality": "start",
+          "url": "https://inv.nadeko.net/vi/6mbzgt6Pgn0/1.jpg",
+          "width": 120,
+          "height": 90
+        },
+        {
+          "quality": "middle",
+          "url": "https://inv.nadeko.net/vi/6mbzgt6Pgn0/2.jpg",
+          "width": 120,
+          "height": 90
+        },
+        {
+          "quality": "end",
+          "url": "https://inv.nadeko.net/vi/6mbzgt6Pgn0/3.jpg",
+          "width": 120,
+          "height": 90
+        }
+      ],
+      "categoryId": "mahalaya",
+      "addedAt": "2026-10-06T13:26:51.656Z"
+    },
+    {
+      "id": "fbb178c0-fae1-48bd-b4a8-1f096ef59381",
+      "kind": "youtube",
+      "videoId": "G4muMbjjQ-M",
+      "title": "Nayan Tarse & Badra Bahaar",
+      "author": "Amit Trivedi",
+      "lengthSeconds": 447,
+      "videoThumbnails": [
+        {
+          "quality": "maxres",
+          "url": "https://inv.nadeko.net/vi/G4muMbjjQ-M/maxres.jpg",
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "quality": "maxresdefault",
+          "url": "https://inv.nadeko.net/vi/G4muMbjjQ-M/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "quality": "sddefault",
+          "url": "https://inv.nadeko.net/vi/G4muMbjjQ-M/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        {
+          "quality": "high",
+          "url": "https://inv.nadeko.net/vi/G4muMbjjQ-M/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        {
+          "quality": "medium",
+          "url": "https://inv.nadeko.net/vi/G4muMbjjQ-M/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        {
+          "quality": "default",
+          "url": "https://inv.nadeko.net/vi/G4muMbjjQ-M/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        {
+          "quality": "start",
+          "url": "https://inv.nadeko.net/vi/G4muMbjjQ-M/1.jpg",
+          "width": 120,
+          "height": 90
+        },
+        {
+          "quality": "middle",
+          "url": "https://inv.nadeko.net/vi/G4muMbjjQ-M/2.jpg",
+          "width": 120,
+          "height": 90
+        },
+        {
+          "quality": "end",
+          "url": "https://inv.nadeko.net/vi/G4muMbjjQ-M/3.jpg",
+          "width": 120,
+          "height": 90
+        }
+      ],
+      "categoryId": "mahalaya",
+      "addedAt": "2026-10-06T13:26:51.657Z"
+    },
+    {
+      "id": "4f0fdfae-859a-4a18-bab2-2320b2a2845e",
+      "kind": "youtube",
+      "videoId": "X4rEsj4z7MY",
+      "title": "Moh Moh Ke Dhaage (Male)",
+      "author": "Papon",
+      "lengthSeconds": 323,
+      "videoThumbnails": [
+        {
+          "quality": "maxres",
+          "url": "https://inv.nadeko.net/vi/X4rEsj4z7MY/maxres.jpg",
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "quality": "maxresdefault",
+          "url": "https://inv.nadeko.net/vi/X4rEsj4z7MY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "quality": "sddefault",
+          "url": "https://inv.nadeko.net/vi/X4rEsj4z7MY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        {
+          "quality": "high",
+          "url": "https://inv.nadeko.net/vi/X4rEsj4z7MY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        {
+          "quality": "medium",
+          "url": "https://inv.nadeko.net/vi/X4rEsj4z7MY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        {
+          "quality": "default",
+          "url": "https://inv.nadeko.net/vi/X4rEsj4z7MY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        {
+          "quality": "start",
+          "url": "https://inv.nadeko.net/vi/X4rEsj4z7MY/1.jpg",
+          "width": 120,
+          "height": 90
+        },
+        {
+          "quality": "middle",
+          "url": "https://inv.nadeko.net/vi/X4rEsj4z7MY/2.jpg",
+          "width": 120,
+          "height": 90
+        },
+        {
+          "quality": "end",
+          "url": "https://inv.nadeko.net/vi/X4rEsj4z7MY/3.jpg",
+          "width": 120,
+          "height": 90
+        }
+      ],
+      "categoryId": "mahalaya",
+      "addedAt": "2026-10-06T13:26:51.657Z"
+    },
+    {
+      "id": "5bed5ad6-9b15-48d1-a8e9-74e760e9808d",
+      "kind": "youtube",
+      "videoId": "f-2KcG18jH4",
+      "title": "Kurbaan Hua (MTV Unplugged Version)",
+      "author": "Salim Sulaiman Music",
+      "lengthSeconds": 322,
+      "videoThumbnails": [
+        {
+          "quality": "maxres",
+          "url": "https://inv.nadeko.net/vi/f-2KcG18jH4/maxres.jpg",
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "quality": "maxresdefault",
+          "url": "https://inv.nadeko.net/vi/f-2KcG18jH4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "quality": "sddefault",
+          "url": "https://inv.nadeko.net/vi/f-2KcG18jH4/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        {
+          "quality": "high",
+          "url": "https://inv.nadeko.net/vi/f-2KcG18jH4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        {
+          "quality": "medium",
+          "url": "https://inv.nadeko.net/vi/f-2KcG18jH4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        {
+          "quality": "default",
+          "url": "https://inv.nadeko.net/vi/f-2KcG18jH4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        {
+          "quality": "start",
+          "url": "https://inv.nadeko.net/vi/f-2KcG18jH4/1.jpg",
+          "width": 120,
+          "height": 90
+        },
+        {
+          "quality": "middle",
+          "url": "https://inv.nadeko.net/vi/f-2KcG18jH4/2.jpg",
+          "width": 120,
+          "height": 90
+        },
+        {
+          "quality": "end",
+          "url": "https://inv.nadeko.net/vi/f-2KcG18jH4/3.jpg",
+          "width": 120,
+          "height": 90
+        }
+      ],
+      "categoryId": "mahalaya",
+      "addedAt": "2026-10-06T13:26:51.658Z"
+    },
+    {
+      "id": "fd620313-ba91-49b3-8a4d-9d918fd23b1e",
+      "kind": "youtube",
+      "videoId": "TJQXYbZXk_U",
+      "title": "Tu Hai (Mtv Unplugged Season 6)",
+      "author": "A. R. Rahman",
+      "lengthSeconds": 297,
+      "videoThumbnails": [
+        {
+          "quality": "maxres",
+          "url": "https://inv.nadeko.net/vi/TJQXYbZXk_U/maxres.jpg",
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "quality": "maxresdefault",
+          "url": "https://inv.nadeko.net/vi/TJQXYbZXk_U/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "quality": "sddefault",
+          "url": "https://inv.nadeko.net/vi/TJQXYbZXk_U/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        {
+          "quality": "high",
+          "url": "https://inv.nadeko.net/vi/TJQXYbZXk_U/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        {
+          "quality": "medium",
+          "url": "https://inv.nadeko.net/vi/TJQXYbZXk_U/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        {
+          "quality": "default",
+          "url": "https://inv.nadeko.net/vi/TJQXYbZXk_U/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        {
+          "quality": "start",
+          "url": "https://inv.nadeko.net/vi/TJQXYbZXk_U/1.jpg",
+          "width": 120,
+          "height": 90
+        },
+        {
+          "quality": "middle",
+          "url": "https://inv.nadeko.net/vi/TJQXYbZXk_U/2.jpg",
+          "width": 120,
+          "height": 90
+        },
+        {
+          "quality": "end",
+          "url": "https://inv.nadeko.net/vi/TJQXYbZXk_U/3.jpg",
+          "width": 120,
+          "height": 90
+        }
+      ],
+      "categoryId": "mahalaya",
+      "addedAt": "2026-10-06T13:26:51.658Z"
+    },
+    {
+      "id": "5a8bbf19-2c29-4c42-b9a2-7dd9deeea01a",
+      "kind": "youtube",
+      "videoId": "NjYtoUBsODM",
+      "title": "Jiya Re (Unplugged)",
+      "author": "Neeti Mohan ",
+      "lengthSeconds": 335,
+      "videoThumbnails": [
+        {
+          "quality": "maxres",
+          "url": "https://inv.nadeko.net/vi/NjYtoUBsODM/maxres.jpg",
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "quality": "maxresdefault",
+          "url": "https://inv.nadeko.net/vi/NjYtoUBsODM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "quality": "sddefault",
+          "url": "https://inv.nadeko.net/vi/NjYtoUBsODM/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        {
+          "quality": "high",
+          "url": "https://inv.nadeko.net/vi/NjYtoUBsODM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        {
+          "quality": "medium",
+          "url": "https://inv.nadeko.net/vi/NjYtoUBsODM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        {
+          "quality": "default",
+          "url": "https://inv.nadeko.net/vi/NjYtoUBsODM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        {
+          "quality": "start",
+          "url": "https://inv.nadeko.net/vi/NjYtoUBsODM/1.jpg",
+          "width": 120,
+          "height": 90
+        },
+        {
+          "quality": "middle",
+          "url": "https://inv.nadeko.net/vi/NjYtoUBsODM/2.jpg",
+          "width": 120,
+          "height": 90
+        },
+        {
+          "quality": "end",
+          "url": "https://inv.nadeko.net/vi/NjYtoUBsODM/3.jpg",
+          "width": 120,
+          "height": 90
+        }
+      ],
+      "categoryId": "mahalaya",
+      "addedAt": "2026-10-06T13:26:51.658Z"
+    },
+    {
+      "id": "ad83fba0-c24c-4d24-a2de-872bf071ad1b",
+      "kind": "youtube",
+      "videoId": "5kBgZQHE--A",
+      "title": "Pareshaan",
+      "author": "Shalmali Kholgade",
+      "lengthSeconds": 292,
+      "videoThumbnails": [
+        {
+          "quality": "maxres",
+          "url": "https://inv.nadeko.net/vi/5kBgZQHE--A/maxres.jpg",
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "quality": "maxresdefault",
+          "url": "https://inv.nadeko.net/vi/5kBgZQHE--A/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "quality": "sddefault",
+          "url": "https://inv.nadeko.net/vi/5kBgZQHE--A/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        {
+          "quality": "high",
+          "url": "https://inv.nadeko.net/vi/5kBgZQHE--A/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        {
+          "quality": "medium",
+          "url": "https://inv.nadeko.net/vi/5kBgZQHE--A/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        {
+          "quality": "default",
+          "url": "https://inv.nadeko.net/vi/5kBgZQHE--A/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        {
+          "quality": "start",
+          "url": "https://inv.nadeko.net/vi/5kBgZQHE--A/1.jpg",
+          "width": 120,
+          "height": 90
+        },
+        {
+          "quality": "middle",
+          "url": "https://inv.nadeko.net/vi/5kBgZQHE--A/2.jpg",
+          "width": 120,
+          "height": 90
+        },
+        {
+          "quality": "end",
+          "url": "https://inv.nadeko.net/vi/5kBgZQHE--A/3.jpg",
+          "width": 120,
+          "height": 90
+        }
+      ],
+      "categoryId": "mahalaya",
+      "addedAt": "2026-10-06T13:26:51.659Z"
+    },
+    {
+      "id": "5ee6d239-7900-4835-9772-44cc724397f7",
+      "kind": "youtube",
+      "videoId": "QvwDmePaRiU",
+      "title": "Urvashi Urvashi",
+      "author": "A. R. Rahman",
+      "lengthSeconds": 342,
+      "videoThumbnails": [
+        {
+          "quality": "maxres",
+          "url": "https://inv.nadeko.net/vi/QvwDmePaRiU/maxres.jpg",
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "quality": "maxresdefault",
+          "url": "https://inv.nadeko.net/vi/QvwDmePaRiU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "quality": "sddefault",
+          "url": "https://inv.nadeko.net/vi/QvwDmePaRiU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        {
+          "quality": "high",
+          "url": "https://inv.nadeko.net/vi/QvwDmePaRiU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        {
+          "quality": "medium",
+          "url": "https://inv.nadeko.net/vi/QvwDmePaRiU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        {
+          "quality": "default",
+          "url": "https://inv.nadeko.net/vi/QvwDmePaRiU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        {
+          "quality": "start",
+          "url": "https://inv.nadeko.net/vi/QvwDmePaRiU/1.jpg",
+          "width": 120,
+          "height": 90
+        },
+        {
+          "quality": "middle",
+          "url": "https://inv.nadeko.net/vi/QvwDmePaRiU/2.jpg",
+          "width": 120,
+          "height": 90
+        },
+        {
+          "quality": "end",
+          "url": "https://inv.nadeko.net/vi/QvwDmePaRiU/3.jpg",
+          "width": 120,
+          "height": 90
+        }
+      ],
+      "categoryId": "mahalaya",
+      "addedAt": "2026-10-06T13:26:51.659Z"
+    },
+    {
+      "id": "69750280-63c6-43f1-affa-8a3fa79ced45",
+      "kind": "youtube",
+      "videoId": "a1yDPthkH0E",
+      "title": "Kaun Tujhe Unplugged",
+      "author": "Amaal Mallik",
+      "lengthSeconds": 279,
+      "videoThumbnails": [
+        {
+          "quality": "maxres",
+          "url": "https://inv.nadeko.net/vi/a1yDPthkH0E/maxres.jpg",
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "quality": "maxresdefault",
+          "url": "https://inv.nadeko.net/vi/a1yDPthkH0E/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "quality": "sddefault",
+          "url": "https://inv.nadeko.net/vi/a1yDPthkH0E/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        {
+          "quality": "high",
+          "url": "https://inv.nadeko.net/vi/a1yDPthkH0E/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        {
+          "quality": "medium",
+          "url": "https://inv.nadeko.net/vi/a1yDPthkH0E/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        {
+          "quality": "default",
+          "url": "https://inv.nadeko.net/vi/a1yDPthkH0E/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        {
+          "quality": "start",
+          "url": "https://inv.nadeko.net/vi/a1yDPthkH0E/1.jpg",
+          "width": 120,
+          "height": 90
+        },
+        {
+          "quality": "middle",
+          "url": "https://inv.nadeko.net/vi/a1yDPthkH0E/2.jpg",
+          "width": 120,
+          "height": 90
+        },
+        {
+          "quality": "end",
+          "url": "https://inv.nadeko.net/vi/a1yDPthkH0E/3.jpg",
+          "width": 120,
+          "height": 90
+        }
+      ],
+      "categoryId": "mahalaya",
+      "addedAt": "2026-10-06T13:26:51.660Z"
+    },
+    {
+      "id": "f66b8536-79bd-4be3-b1a7-b552dd82f738",
+      "kind": "youtube",
+      "videoId": "uUnUiSeE-IM",
+      "title": "Dil Darbadar",
+      "author": "Ankit Tiwari",
+      "lengthSeconds": 378,
+      "videoThumbnails": [
+        {
+          "quality": "maxres",
+          "url": "https://inv.nadeko.net/vi/uUnUiSeE-IM/maxres.jpg",
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "quality": "maxresdefault",
+          "url": "https://inv.nadeko.net/vi/uUnUiSeE-IM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "quality": "sddefault",
+          "url": "https://inv.nadeko.net/vi/uUnUiSeE-IM/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        {
+          "quality": "high",
+          "url": "https://inv.nadeko.net/vi/uUnUiSeE-IM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        {
+          "quality": "medium",
+          "url": "https://inv.nadeko.net/vi/uUnUiSeE-IM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        {
+          "quality": "default",
+          "url": "https://inv.nadeko.net/vi/uUnUiSeE-IM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        {
+          "quality": "start",
+          "url": "https://inv.nadeko.net/vi/uUnUiSeE-IM/1.jpg",
+          "width": 120,
+          "height": 90
+        },
+        {
+          "quality": "middle",
+          "url": "https://inv.nadeko.net/vi/uUnUiSeE-IM/2.jpg",
+          "width": 120,
+          "height": 90
+        },
+        {
+          "quality": "end",
+          "url": "https://inv.nadeko.net/vi/uUnUiSeE-IM/3.jpg",
+          "width": 120,
+          "height": 90
+        }
+      ],
+      "categoryId": "mahalaya",
+      "addedAt": "2026-10-06T13:26:51.660Z"
+    },
+    {
+      "id": "7a872ef3-8794-4e7c-9bff-078ab329d6d8",
+      "kind": "youtube",
+      "videoId": "14dey5w13us",
+      "title": "Sunn Raha Hai",
+      "author": "Ankit Tiwari",
+      "lengthSeconds": 449,
+      "videoThumbnails": [
+        {
+          "quality": "maxres",
+          "url": "https://inv.nadeko.net/vi/14dey5w13us/maxres.jpg",
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "quality": "maxresdefault",
+          "url": "https://inv.nadeko.net/vi/14dey5w13us/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "quality": "sddefault",
+          "url": "https://inv.nadeko.net/vi/14dey5w13us/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        {
+          "quality": "high",
+          "url": "https://inv.nadeko.net/vi/14dey5w13us/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        {
+          "quality": "medium",
+          "url": "https://inv.nadeko.net/vi/14dey5w13us/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        {
+          "quality": "default",
+          "url": "https://inv.nadeko.net/vi/14dey5w13us/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        {
+          "quality": "start",
+          "url": "https://inv.nadeko.net/vi/14dey5w13us/1.jpg",
+          "width": 120,
+          "height": 90
+        },
+        {
+          "quality": "middle",
+          "url": "https://inv.nadeko.net/vi/14dey5w13us/2.jpg",
+          "width": 120,
+          "height": 90
+        },
+        {
+          "quality": "end",
+          "url": "https://inv.nadeko.net/vi/14dey5w13us/3.jpg",
+          "width": 120,
+          "height": 90
+        }
+      ],
+      "categoryId": "mahalaya",
+      "addedAt": "2026-10-06T13:26:51.660Z"
+    },
+    {
+      "id": "3332cd42-a280-48ca-b141-2e2b17b0f07a",
+      "kind": "youtube",
+      "videoId": "6PNMVivzv44",
+      "title": "Tum Hi Ho (Instrumental)",
+      "author": "Mithoon - Topic",
+      "lengthSeconds": 415,
+      "videoThumbnails": [
+        {
+          "quality": "maxres",
+          "url": "https://inv.nadeko.net/vi/6PNMVivzv44/maxres.jpg",
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "quality": "maxresdefault",
+          "url": "https://inv.nadeko.net/vi/6PNMVivzv44/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "quality": "sddefault",
+          "url": "https://inv.nadeko.net/vi/6PNMVivzv44/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        {
+          "quality": "high",
+          "url": "https://inv.nadeko.net/vi/6PNMVivzv44/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        {
+          "quality": "medium",
+          "url": "https://inv.nadeko.net/vi/6PNMVivzv44/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        {
+          "quality": "default",
+          "url": "https://inv.nadeko.net/vi/6PNMVivzv44/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        {
+          "quality": "start",
+          "url": "https://inv.nadeko.net/vi/6PNMVivzv44/1.jpg",
+          "width": 120,
+          "height": 90
+        },
+        {
+          "quality": "middle",
+          "url": "https://inv.nadeko.net/vi/6PNMVivzv44/2.jpg",
+          "width": 120,
+          "height": 90
+        },
+        {
+          "quality": "end",
+          "url": "https://inv.nadeko.net/vi/6PNMVivzv44/3.jpg",
+          "width": 120,
+          "height": 90
+        }
+      ],
+      "categoryId": "mahalaya",
+      "addedAt": "2026-10-06T13:26:51.660Z"
+    },
+    {
+      "id": "5ba747e3-13a9-4e52-9a69-8cb4f51b142d",
+      "kind": "youtube",
+      "videoId": "ws3fkXeUnMw",
+      "title": "Ranjha Ranjha Unplugged",
+      "author": "A. R. Rahman",
+      "lengthSeconds": 329,
+      "videoThumbnails": [
+        {
+          "quality": "maxres",
+          "url": "https://inv.nadeko.net/vi/ws3fkXeUnMw/maxres.jpg",
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "quality": "maxresdefault",
+          "url": "https://inv.nadeko.net/vi/ws3fkXeUnMw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "quality": "sddefault",
+          "url": "https://inv.nadeko.net/vi/ws3fkXeUnMw/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        {
+          "quality": "high",
+          "url": "https://inv.nadeko.net/vi/ws3fkXeUnMw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        {
+          "quality": "medium",
+          "url": "https://inv.nadeko.net/vi/ws3fkXeUnMw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        {
+          "quality": "default",
+          "url": "https://inv.nadeko.net/vi/ws3fkXeUnMw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        {
+          "quality": "start",
+          "url": "https://inv.nadeko.net/vi/ws3fkXeUnMw/1.jpg",
+          "width": 120,
+          "height": 90
+        },
+        {
+          "quality": "middle",
+          "url": "https://inv.nadeko.net/vi/ws3fkXeUnMw/2.jpg",
+          "width": 120,
+          "height": 90
+        },
+        {
+          "quality": "end",
+          "url": "https://inv.nadeko.net/vi/ws3fkXeUnMw/3.jpg",
+          "width": 120,
+          "height": 90
+        }
+      ],
+      "categoryId": "mahalaya",
+      "addedAt": "2026-10-06T13:26:51.661Z"
+    },
+    {
+      "id": "1f7fd41d-d5eb-40f4-9980-6fbde99d6519",
+      "kind": "youtube",
+      "videoId": "qTBNh12ON38",
+      "title": "Humdard",
+      "author": "Mithoon - Topic",
+      "lengthSeconds": 259,
+      "videoThumbnails": [
+        {
+          "quality": "maxres",
+          "url": "https://inv.nadeko.net/vi/qTBNh12ON38/maxres.jpg",
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "quality": "maxresdefault",
+          "url": "https://inv.nadeko.net/vi/qTBNh12ON38/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "quality": "sddefault",
+          "url": "https://inv.nadeko.net/vi/qTBNh12ON38/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        {
+          "quality": "high",
+          "url": "https://inv.nadeko.net/vi/qTBNh12ON38/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        {
+          "quality": "medium",
+          "url": "https://inv.nadeko.net/vi/qTBNh12ON38/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        {
+          "quality": "default",
+          "url": "https://inv.nadeko.net/vi/qTBNh12ON38/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        {
+          "quality": "start",
+          "url": "https://inv.nadeko.net/vi/qTBNh12ON38/1.jpg",
+          "width": 120,
+          "height": 90
+        },
+        {
+          "quality": "middle",
+          "url": "https://inv.nadeko.net/vi/qTBNh12ON38/2.jpg",
+          "width": 120,
+          "height": 90
+        },
+        {
+          "quality": "end",
+          "url": "https://inv.nadeko.net/vi/qTBNh12ON38/3.jpg",
+          "width": 120,
+          "height": 90
+        }
+      ],
+      "categoryId": "mahalaya",
+      "addedAt": "2026-10-06T13:26:51.661Z"
+    },
+    {
+      "id": "485117d4-ff30-4f02-8147-2e073fdeeda7",
+      "kind": "youtube",
+      "videoId": "j8naefuRSbA",
+      "title": "Kaun Mera",
+      "author": "Papon",
+      "lengthSeconds": 345,
+      "videoThumbnails": [
+        {
+          "quality": "maxres",
+          "url": "https://inv.nadeko.net/vi/j8naefuRSbA/maxres.jpg",
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "quality": "maxresdefault",
+          "url": "https://inv.nadeko.net/vi/j8naefuRSbA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "quality": "sddefault",
+          "url": "https://inv.nadeko.net/vi/j8naefuRSbA/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        {
+          "quality": "high",
+          "url": "https://inv.nadeko.net/vi/j8naefuRSbA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        {
+          "quality": "medium",
+          "url": "https://inv.nadeko.net/vi/j8naefuRSbA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        {
+          "quality": "default",
+          "url": "https://inv.nadeko.net/vi/j8naefuRSbA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        {
+          "quality": "start",
+          "url": "https://inv.nadeko.net/vi/j8naefuRSbA/1.jpg",
+          "width": 120,
+          "height": 90
+        },
+        {
+          "quality": "middle",
+          "url": "https://inv.nadeko.net/vi/j8naefuRSbA/2.jpg",
+          "width": 120,
+          "height": 90
+        },
+        {
+          "quality": "end",
+          "url": "https://inv.nadeko.net/vi/j8naefuRSbA/3.jpg",
+          "width": 120,
+          "height": 90
+        }
+      ],
+      "categoryId": "mahalaya",
+      "addedAt": "2026-10-06T13:26:51.661Z"
+    },
+    {
+      "id": "9c4b1cb3-3e1f-434f-865f-a012fb81bf01",
+      "kind": "youtube",
+      "videoId": "szdRoROQy_c",
+      "title": "Jiyein Kyun",
+      "author": "Pritam",
+      "lengthSeconds": 265,
+      "videoThumbnails": [
+        {
+          "quality": "maxres",
+          "url": "https://inv.nadeko.net/vi/szdRoROQy_c/maxres.jpg",
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "quality": "maxresdefault",
+          "url": "https://inv.nadeko.net/vi/szdRoROQy_c/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "quality": "sddefault",
+          "url": "https://inv.nadeko.net/vi/szdRoROQy_c/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        {
+          "quality": "high",
+          "url": "https://inv.nadeko.net/vi/szdRoROQy_c/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        {
+          "quality": "medium",
+          "url": "https://inv.nadeko.net/vi/szdRoROQy_c/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        {
+          "quality": "default",
+          "url": "https://inv.nadeko.net/vi/szdRoROQy_c/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        {
+          "quality": "start",
+          "url": "https://inv.nadeko.net/vi/szdRoROQy_c/1.jpg",
+          "width": 120,
+          "height": 90
+        },
+        {
+          "quality": "middle",
+          "url": "https://inv.nadeko.net/vi/szdRoROQy_c/2.jpg",
+          "width": 120,
+          "height": 90
+        },
+        {
+          "quality": "end",
+          "url": "https://inv.nadeko.net/vi/szdRoROQy_c/3.jpg",
+          "width": 120,
+          "height": 90
+        }
+      ],
+      "categoryId": "mahalaya",
+      "addedAt": "2026-10-06T13:26:51.661Z"
+    },
+    {
+      "id": "d99aa360-0057-43af-889e-6e45371a4445",
+      "kind": "youtube",
+      "videoId": "z_qfprksu7Y",
+      "title": "Agar Tum Saath Ho Unplugged",
+      "author": "Shalmali Kholgade",
+      "lengthSeconds": 329,
+      "videoThumbnails": [
+        {
+          "quality": "maxres",
+          "url": "https://inv.nadeko.net/vi/z_qfprksu7Y/maxres.jpg",
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "quality": "maxresdefault",
+          "url": "https://inv.nadeko.net/vi/z_qfprksu7Y/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "quality": "sddefault",
+          "url": "https://inv.nadeko.net/vi/z_qfprksu7Y/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        {
+          "quality": "high",
+          "url": "https://inv.nadeko.net/vi/z_qfprksu7Y/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        {
+          "quality": "medium",
+          "url": "https://inv.nadeko.net/vi/z_qfprksu7Y/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        {
+          "quality": "default",
+          "url": "https://inv.nadeko.net/vi/z_qfprksu7Y/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        {
+          "quality": "start",
+          "url": "https://inv.nadeko.net/vi/z_qfprksu7Y/1.jpg",
+          "width": 120,
+          "height": 90
+        },
+        {
+          "quality": "middle",
+          "url": "https://inv.nadeko.net/vi/z_qfprksu7Y/2.jpg",
+          "width": 120,
+          "height": 90
+        },
+        {
+          "quality": "end",
+          "url": "https://inv.nadeko.net/vi/z_qfprksu7Y/3.jpg",
+          "width": 120,
+          "height": 90
+        }
+      ],
+      "categoryId": "mahalaya",
+      "addedAt": "2026-10-06T13:26:51.661Z"
+    },
+    {
+      "id": "3201d172-e0bc-4f03-86b2-1f761b3f34c1",
+      "kind": "youtube",
+      "videoId": "w9u5Ug_mb28",
+      "title": "Anjaana Anjaani Unplugged",
+      "author": "Monali Thakur",
+      "lengthSeconds": 296,
+      "videoThumbnails": [
+        {
+          "quality": "maxres",
+          "url": "https://inv.nadeko.net/vi/w9u5Ug_mb28/maxres.jpg",
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "quality": "maxresdefault",
+          "url": "https://inv.nadeko.net/vi/w9u5Ug_mb28/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "quality": "sddefault",
+          "url": "https://inv.nadeko.net/vi/w9u5Ug_mb28/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        {
+          "quality": "high",
+          "url": "https://inv.nadeko.net/vi/w9u5Ug_mb28/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        {
+          "quality": "medium",
+          "url": "https://inv.nadeko.net/vi/w9u5Ug_mb28/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        {
+          "quality": "default",
+          "url": "https://inv.nadeko.net/vi/w9u5Ug_mb28/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        {
+          "quality": "start",
+          "url": "https://inv.nadeko.net/vi/w9u5Ug_mb28/1.jpg",
+          "width": 120,
+          "height": 90
+        },
+        {
+          "quality": "middle",
+          "url": "https://inv.nadeko.net/vi/w9u5Ug_mb28/2.jpg",
+          "width": 120,
+          "height": 90
+        },
+        {
+          "quality": "end",
+          "url": "https://inv.nadeko.net/vi/w9u5Ug_mb28/3.jpg",
+          "width": 120,
+          "height": 90
+        }
+      ],
+      "categoryId": "mahalaya",
+      "addedAt": "2026-10-06T13:26:51.661Z"
+    },
+    {
+      "id": "cce0b0e2-c84e-4b74-b799-3c44a547560f",
+      "kind": "youtube",
+      "videoId": "tF15IdngzNI",
+      "title": "Ahista Ahista Unplugged",
+      "author": "Farhan Akhtar - Topic",
+      "lengthSeconds": 402,
+      "videoThumbnails": [
+        {
+          "quality": "maxres",
+          "url": "https://inv.nadeko.net/vi/tF15IdngzNI/maxres.jpg",
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "quality": "maxresdefault",
+          "url": "https://inv.nadeko.net/vi/tF15IdngzNI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "quality": "sddefault",
+          "url": "https://inv.nadeko.net/vi/tF15IdngzNI/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        {
+          "quality": "high",
+          "url": "https://inv.nadeko.net/vi/tF15IdngzNI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        {
+          "quality": "medium",
+          "url": "https://inv.nadeko.net/vi/tF15IdngzNI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        {
+          "quality": "default",
+          "url": "https://inv.nadeko.net/vi/tF15IdngzNI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        {
+          "quality": "start",
+          "url": "https://inv.nadeko.net/vi/tF15IdngzNI/1.jpg",
+          "width": 120,
+          "height": 90
+        },
+        {
+          "quality": "middle",
+          "url": "https://inv.nadeko.net/vi/tF15IdngzNI/2.jpg",
+          "width": 120,
+          "height": 90
+        },
+        {
+          "quality": "end",
+          "url": "https://inv.nadeko.net/vi/tF15IdngzNI/3.jpg",
+          "width": 120,
+          "height": 90
+        }
+      ],
+      "categoryId": "mahalaya",
+      "addedAt": "2026-10-06T13:26:51.661Z"
+    },
+    {
+      "id": "dee18423-3eaa-4b36-a0e5-9460989f0fa3",
+      "kind": "youtube",
+      "videoId": "sJWaydHTh_I",
+      "title": "Aave Re Hitchki Unplugged",
+      "author": "Shankar Mahadevan - Topic",
+      "lengthSeconds": 493,
+      "videoThumbnails": [
+        {
+          "quality": "maxres",
+          "url": "https://inv.nadeko.net/vi/sJWaydHTh_I/maxres.jpg",
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "quality": "maxresdefault",
+          "url": "https://inv.nadeko.net/vi/sJWaydHTh_I/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "quality": "sddefault",
+          "url": "https://inv.nadeko.net/vi/sJWaydHTh_I/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        {
+          "quality": "high",
+          "url": "https://inv.nadeko.net/vi/sJWaydHTh_I/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        {
+          "quality": "medium",
+          "url": "https://inv.nadeko.net/vi/sJWaydHTh_I/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        {
+          "quality": "default",
+          "url": "https://inv.nadeko.net/vi/sJWaydHTh_I/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        {
+          "quality": "start",
+          "url": "https://inv.nadeko.net/vi/sJWaydHTh_I/1.jpg",
+          "width": 120,
+          "height": 90
+        },
+        {
+          "quality": "middle",
+          "url": "https://inv.nadeko.net/vi/sJWaydHTh_I/2.jpg",
+          "width": 120,
+          "height": 90
+        },
+        {
+          "quality": "end",
+          "url": "https://inv.nadeko.net/vi/sJWaydHTh_I/3.jpg",
+          "width": 120,
+          "height": 90
+        }
+      ],
+      "categoryId": "mahalaya",
+      "addedAt": "2026-10-06T13:26:51.661Z"
+    },
+    {
+      "id": "e3964465-9989-4855-9ac5-d4da14a4ba48",
+      "kind": "youtube",
+      "videoId": "N1KpWbB5ZBA",
+      "title": "Atrangi Yaari Unplugged",
+      "author": "Farhan Akhtar - Topic",
+      "lengthSeconds": 249,
+      "videoThumbnails": [
+        {
+          "quality": "maxres",
+          "url": "https://inv.nadeko.net/vi/N1KpWbB5ZBA/maxres.jpg",
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "quality": "maxresdefault",
+          "url": "https://inv.nadeko.net/vi/N1KpWbB5ZBA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "quality": "sddefault",
+          "url": "https://inv.nadeko.net/vi/N1KpWbB5ZBA/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        {
+          "quality": "high",
+          "url": "https://inv.nadeko.net/vi/N1KpWbB5ZBA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        {
+          "quality": "medium",
+          "url": "https://inv.nadeko.net/vi/N1KpWbB5ZBA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        {
+          "quality": "default",
+          "url": "https://inv.nadeko.net/vi/N1KpWbB5ZBA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        {
+          "quality": "start",
+          "url": "https://inv.nadeko.net/vi/N1KpWbB5ZBA/1.jpg",
+          "width": 120,
+          "height": 90
+        },
+        {
+          "quality": "middle",
+          "url": "https://inv.nadeko.net/vi/N1KpWbB5ZBA/2.jpg",
+          "width": 120,
+          "height": 90
+        },
+        {
+          "quality": "end",
+          "url": "https://inv.nadeko.net/vi/N1KpWbB5ZBA/3.jpg",
+          "width": 120,
+          "height": 90
+        }
+      ],
+      "categoryId": "mahalaya",
+      "addedAt": "2026-10-06T13:26:51.662Z"
+    },
+    {
+      "id": "3a429c93-d8dc-4976-aea0-729f2cbaf960",
+      "kind": "youtube",
+      "videoId": "feeAg2BPMCE",
+      "title": "Dil Toh Bacha Hai Ji Unplugged",
+      "author": "This is Vishal Bhardwaj ",
+      "lengthSeconds": 430,
+      "videoThumbnails": [
+        {
+          "quality": "maxres",
+          "url": "https://inv.nadeko.net/vi/feeAg2BPMCE/maxres.jpg",
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "quality": "maxresdefault",
+          "url": "https://inv.nadeko.net/vi/feeAg2BPMCE/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "quality": "sddefault",
+          "url": "https://inv.nadeko.net/vi/feeAg2BPMCE/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        {
+          "quality": "high",
+          "url": "https://inv.nadeko.net/vi/feeAg2BPMCE/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        {
+          "quality": "medium",
+          "url": "https://inv.nadeko.net/vi/feeAg2BPMCE/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        {
+          "quality": "default",
+          "url": "https://inv.nadeko.net/vi/feeAg2BPMCE/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        {
+          "quality": "start",
+          "url": "https://inv.nadeko.net/vi/feeAg2BPMCE/1.jpg",
+          "width": 120,
+          "height": 90
+        },
+        {
+          "quality": "middle",
+          "url": "https://inv.nadeko.net/vi/feeAg2BPMCE/2.jpg",
+          "width": 120,
+          "height": 90
+        },
+        {
+          "quality": "end",
+          "url": "https://inv.nadeko.net/vi/feeAg2BPMCE/3.jpg",
+          "width": 120,
+          "height": 90
+        }
+      ],
+      "categoryId": "mahalaya",
+      "addedAt": "2026-10-06T13:26:51.662Z"
+    },
+    {
+      "id": "958df42a-78b3-43b9-aa52-824f7c3164f3",
+      "kind": "youtube",
+      "videoId": "ZEPuEAnxCDA",
+      "title": "Gallan Goodiyan Unplugged",
+      "author": "Farhan Akhtar - Topic",
+      "lengthSeconds": 337,
+      "videoThumbnails": [
+        {
+          "quality": "maxres",
+          "url": "https://inv.nadeko.net/vi/ZEPuEAnxCDA/maxres.jpg",
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "quality": "maxresdefault",
+          "url": "https://inv.nadeko.net/vi/ZEPuEAnxCDA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "quality": "sddefault",
+          "url": "https://inv.nadeko.net/vi/ZEPuEAnxCDA/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        {
+          "quality": "high",
+          "url": "https://inv.nadeko.net/vi/ZEPuEAnxCDA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        {
+          "quality": "medium",
+          "url": "https://inv.nadeko.net/vi/ZEPuEAnxCDA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        {
+          "quality": "default",
+          "url": "https://inv.nadeko.net/vi/ZEPuEAnxCDA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        {
+          "quality": "start",
+          "url": "https://inv.nadeko.net/vi/ZEPuEAnxCDA/1.jpg",
+          "width": 120,
+          "height": 90
+        },
+        {
+          "quality": "middle",
+          "url": "https://inv.nadeko.net/vi/ZEPuEAnxCDA/2.jpg",
+          "width": 120,
+          "height": 90
+        },
+        {
+          "quality": "end",
+          "url": "https://inv.nadeko.net/vi/ZEPuEAnxCDA/3.jpg",
+          "width": 120,
+          "height": 90
+        }
+      ],
+      "categoryId": "mahalaya",
+      "addedAt": "2026-10-06T13:26:51.662Z"
+    },
+    {
+      "id": "c96fb95a-f0f5-4c0d-bac7-53cf8d9402c4",
+      "kind": "youtube",
+      "videoId": "c8fHPQ3dNMI",
+      "title": "Galti Se Mistake Unplugged",
+      "author": "Amit Mishra - Topic",
+      "lengthSeconds": 268,
+      "videoThumbnails": [
+        {
+          "quality": "maxres",
+          "url": "https://inv.nadeko.net/vi/c8fHPQ3dNMI/maxres.jpg",
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "quality": "maxresdefault",
+          "url": "https://inv.nadeko.net/vi/c8fHPQ3dNMI/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "quality": "sddefault",
+          "url": "https://inv.nadeko.net/vi/c8fHPQ3dNMI/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        {
+          "quality": "high",
+          "url": "https://inv.nadeko.net/vi/c8fHPQ3dNMI/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        {
+          "quality": "medium",
+          "url": "https://inv.nadeko.net/vi/c8fHPQ3dNMI/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        {
+          "quality": "default",
+          "url": "https://inv.nadeko.net/vi/c8fHPQ3dNMI/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        {
+          "quality": "start",
+          "url": "https://inv.nadeko.net/vi/c8fHPQ3dNMI/1.jpg",
+          "width": 120,
+          "height": 90
+        },
+        {
+          "quality": "middle",
+          "url": "https://inv.nadeko.net/vi/c8fHPQ3dNMI/2.jpg",
+          "width": 120,
+          "height": 90
+        },
+        {
+          "quality": "end",
+          "url": "https://inv.nadeko.net/vi/c8fHPQ3dNMI/3.jpg",
+          "width": 120,
+          "height": 90
+        }
+      ],
+      "categoryId": "mahalaya",
+      "addedAt": "2026-10-06T13:26:51.662Z"
+    },
+    {
+      "id": "ab737a0a-5338-4293-9428-c7adebd942f8",
+      "kind": "youtube",
+      "videoId": "AD1ASNq8QtY",
+      "title": "Madhaniyan - Humsafar Unplugged",
+      "author": "Akhil Sachdeva Nasha",
+      "lengthSeconds": 368,
+      "videoThumbnails": [
+        {
+          "quality": "maxres",
+          "url": "https://inv.nadeko.net/vi/AD1ASNq8QtY/maxres.jpg",
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "quality": "maxresdefault",
+          "url": "https://inv.nadeko.net/vi/AD1ASNq8QtY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "quality": "sddefault",
+          "url": "https://inv.nadeko.net/vi/AD1ASNq8QtY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        {
+          "quality": "high",
+          "url": "https://inv.nadeko.net/vi/AD1ASNq8QtY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        {
+          "quality": "medium",
+          "url": "https://inv.nadeko.net/vi/AD1ASNq8QtY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        {
+          "quality": "default",
+          "url": "https://inv.nadeko.net/vi/AD1ASNq8QtY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        {
+          "quality": "start",
+          "url": "https://inv.nadeko.net/vi/AD1ASNq8QtY/1.jpg",
+          "width": 120,
+          "height": 90
+        },
+        {
+          "quality": "middle",
+          "url": "https://inv.nadeko.net/vi/AD1ASNq8QtY/2.jpg",
+          "width": 120,
+          "height": 90
+        },
+        {
+          "quality": "end",
+          "url": "https://inv.nadeko.net/vi/AD1ASNq8QtY/3.jpg",
+          "width": 120,
+          "height": 90
+        }
+      ],
+      "categoryId": "mahalaya",
+      "addedAt": "2026-10-06T13:26:51.663Z"
+    },
+    {
+      "id": "ff74c735-88bb-40b2-af4e-1419ff905644",
+      "kind": "youtube",
+      "videoId": "lcaBb0P3qOY",
+      "title": "Pehli Baar Unplugged",
+      "author": "This is Vishal Bhardwaj ",
+      "lengthSeconds": 334,
+      "videoThumbnails": [
+        {
+          "quality": "maxres",
+          "url": "https://inv.nadeko.net/vi/lcaBb0P3qOY/maxres.jpg",
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "quality": "maxresdefault",
+          "url": "https://inv.nadeko.net/vi/lcaBb0P3qOY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "quality": "sddefault",
+          "url": "https://inv.nadeko.net/vi/lcaBb0P3qOY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        {
+          "quality": "high",
+          "url": "https://inv.nadeko.net/vi/lcaBb0P3qOY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        {
+          "quality": "medium",
+          "url": "https://inv.nadeko.net/vi/lcaBb0P3qOY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        {
+          "quality": "default",
+          "url": "https://inv.nadeko.net/vi/lcaBb0P3qOY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        {
+          "quality": "start",
+          "url": "https://inv.nadeko.net/vi/lcaBb0P3qOY/1.jpg",
+          "width": 120,
+          "height": 90
+        },
+        {
+          "quality": "middle",
+          "url": "https://inv.nadeko.net/vi/lcaBb0P3qOY/2.jpg",
+          "width": 120,
+          "height": 90
+        },
+        {
+          "quality": "end",
+          "url": "https://inv.nadeko.net/vi/lcaBb0P3qOY/3.jpg",
+          "width": 120,
+          "height": 90
+        }
+      ],
+      "categoryId": "mahalaya",
+      "addedAt": "2026-10-06T13:26:51.663Z"
+    },
+    {
+      "id": "fc768bd5-4b23-4ecc-a654-4228d0c7e81d",
+      "kind": "youtube",
+      "videoId": "HAuKDnlFxnY",
+      "title": "Leja Leja Re Unplugged",
+      "author": "Shreya Ghoshal Official",
+      "lengthSeconds": 358,
+      "videoThumbnails": [
+        {
+          "quality": "maxres",
+          "url": "https://inv.nadeko.net/vi/HAuKDnlFxnY/maxres.jpg",
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "quality": "maxresdefault",
+          "url": "https://inv.nadeko.net/vi/HAuKDnlFxnY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "quality": "sddefault",
+          "url": "https://inv.nadeko.net/vi/HAuKDnlFxnY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        {
+          "quality": "high",
+          "url": "https://inv.nadeko.net/vi/HAuKDnlFxnY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        {
+          "quality": "medium",
+          "url": "https://inv.nadeko.net/vi/HAuKDnlFxnY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        {
+          "quality": "default",
+          "url": "https://inv.nadeko.net/vi/HAuKDnlFxnY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        {
+          "quality": "start",
+          "url": "https://inv.nadeko.net/vi/HAuKDnlFxnY/1.jpg",
+          "width": 120,
+          "height": 90
+        },
+        {
+          "quality": "middle",
+          "url": "https://inv.nadeko.net/vi/HAuKDnlFxnY/2.jpg",
+          "width": 120,
+          "height": 90
+        },
+        {
+          "quality": "end",
+          "url": "https://inv.nadeko.net/vi/HAuKDnlFxnY/3.jpg",
+          "width": 120,
+          "height": 90
+        }
+      ],
+      "categoryId": "mahalaya",
+      "addedAt": "2026-10-06T13:26:51.663Z"
+    },
+    {
+      "id": "63067d9e-6308-467e-ace5-150cab980069",
+      "kind": "youtube",
+      "videoId": "UZv6hG-_tKc",
+      "title": "Locha-E-Ulfat Unplugged",
+      "author": "Benny Dayal",
+      "lengthSeconds": 260,
+      "videoThumbnails": [
+        {
+          "quality": "maxres",
+          "url": "https://inv.nadeko.net/vi/UZv6hG-_tKc/maxres.jpg",
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "quality": "maxresdefault",
+          "url": "https://inv.nadeko.net/vi/UZv6hG-_tKc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "quality": "sddefault",
+          "url": "https://inv.nadeko.net/vi/UZv6hG-_tKc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        {
+          "quality": "high",
+          "url": "https://inv.nadeko.net/vi/UZv6hG-_tKc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        {
+          "quality": "medium",
+          "url": "https://inv.nadeko.net/vi/UZv6hG-_tKc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        {
+          "quality": "default",
+          "url": "https://inv.nadeko.net/vi/UZv6hG-_tKc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        {
+          "quality": "start",
+          "url": "https://inv.nadeko.net/vi/UZv6hG-_tKc/1.jpg",
+          "width": 120,
+          "height": 90
+        },
+        {
+          "quality": "middle",
+          "url": "https://inv.nadeko.net/vi/UZv6hG-_tKc/2.jpg",
+          "width": 120,
+          "height": 90
+        },
+        {
+          "quality": "end",
+          "url": "https://inv.nadeko.net/vi/UZv6hG-_tKc/3.jpg",
+          "width": 120,
+          "height": 90
+        }
+      ],
+      "categoryId": "mahalaya",
+      "addedAt": "2026-10-06T13:26:51.663Z"
+    },
+    {
+      "id": "8644e618-9e2f-452a-b78e-6c8d07c6aa52",
+      "kind": "youtube",
+      "videoId": "2v7KZBKgNK4",
+      "title": "Teri Aahatein Nahi Hain - Gubbare Unplugged",
+      "author": "Karthik - Topic",
+      "lengthSeconds": 428,
+      "videoThumbnails": [
+        {
+          "quality": "maxres",
+          "url": "https://inv.nadeko.net/vi/2v7KZBKgNK4/maxres.jpg",
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "quality": "maxresdefault",
+          "url": "https://inv.nadeko.net/vi/2v7KZBKgNK4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "quality": "sddefault",
+          "url": "https://inv.nadeko.net/vi/2v7KZBKgNK4/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        {
+          "quality": "high",
+          "url": "https://inv.nadeko.net/vi/2v7KZBKgNK4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        {
+          "quality": "medium",
+          "url": "https://inv.nadeko.net/vi/2v7KZBKgNK4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        {
+          "quality": "default",
+          "url": "https://inv.nadeko.net/vi/2v7KZBKgNK4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        {
+          "quality": "start",
+          "url": "https://inv.nadeko.net/vi/2v7KZBKgNK4/1.jpg",
+          "width": 120,
+          "height": 90
+        },
+        {
+          "quality": "middle",
+          "url": "https://inv.nadeko.net/vi/2v7KZBKgNK4/2.jpg",
+          "width": 120,
+          "height": 90
+        },
+        {
+          "quality": "end",
+          "url": "https://inv.nadeko.net/vi/2v7KZBKgNK4/3.jpg",
+          "width": 120,
+          "height": 90
+        }
+      ],
+      "categoryId": "mahalaya",
+      "addedAt": "2026-10-06T13:26:51.663Z"
+    },
+    {
+      "id": "a2e1083e-244c-4969-8ddd-1f736bbfa394",
+      "kind": "youtube",
+      "videoId": "8wZ4mwTx_xc",
+      "title": "Ishq Wala Love (MTV Unplugged Version)",
+      "author": "Salim Sulaiman Music",
+      "lengthSeconds": 415,
+      "videoThumbnails": [
+        {
+          "quality": "maxres",
+          "url": "https://inv.nadeko.net/vi/8wZ4mwTx_xc/maxres.jpg",
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "quality": "maxresdefault",
+          "url": "https://inv.nadeko.net/vi/8wZ4mwTx_xc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "quality": "sddefault",
+          "url": "https://inv.nadeko.net/vi/8wZ4mwTx_xc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        {
+          "quality": "high",
+          "url": "https://inv.nadeko.net/vi/8wZ4mwTx_xc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        {
+          "quality": "medium",
+          "url": "https://inv.nadeko.net/vi/8wZ4mwTx_xc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        {
+          "quality": "default",
+          "url": "https://inv.nadeko.net/vi/8wZ4mwTx_xc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        {
+          "quality": "start",
+          "url": "https://inv.nadeko.net/vi/8wZ4mwTx_xc/1.jpg",
+          "width": 120,
+          "height": 90
+        },
+        {
+          "quality": "middle",
+          "url": "https://inv.nadeko.net/vi/8wZ4mwTx_xc/2.jpg",
+          "width": 120,
+          "height": 90
+        },
+        {
+          "quality": "end",
+          "url": "https://inv.nadeko.net/vi/8wZ4mwTx_xc/3.jpg",
+          "width": 120,
+          "height": 90
+        }
+      ],
+      "categoryId": "mahalaya",
+      "addedAt": "2026-10-06T13:26:51.664Z"
+    },
+    {
+      "id": "4f644c0a-89b1-4367-93fd-f78feffb4cdd",
+      "kind": "youtube",
+      "videoId": "Q6vWdzLgRFY",
+      "title": "Shukran Allah (MTV Unplugged Version)",
+      "author": "Salim Sulaiman Music",
+      "lengthSeconds": 344,
+      "videoThumbnails": [
+        {
+          "quality": "maxres",
+          "url": "https://inv.nadeko.net/vi/Q6vWdzLgRFY/maxres.jpg",
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "quality": "maxresdefault",
+          "url": "https://inv.nadeko.net/vi/Q6vWdzLgRFY/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "quality": "sddefault",
+          "url": "https://inv.nadeko.net/vi/Q6vWdzLgRFY/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        {
+          "quality": "high",
+          "url": "https://inv.nadeko.net/vi/Q6vWdzLgRFY/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        {
+          "quality": "medium",
+          "url": "https://inv.nadeko.net/vi/Q6vWdzLgRFY/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        {
+          "quality": "default",
+          "url": "https://inv.nadeko.net/vi/Q6vWdzLgRFY/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        {
+          "quality": "start",
+          "url": "https://inv.nadeko.net/vi/Q6vWdzLgRFY/1.jpg",
+          "width": 120,
+          "height": 90
+        },
+        {
+          "quality": "middle",
+          "url": "https://inv.nadeko.net/vi/Q6vWdzLgRFY/2.jpg",
+          "width": 120,
+          "height": 90
+        },
+        {
+          "quality": "end",
+          "url": "https://inv.nadeko.net/vi/Q6vWdzLgRFY/3.jpg",
+          "width": 120,
+          "height": 90
+        }
+      ],
+      "categoryId": "mahalaya",
+      "addedAt": "2026-10-06T13:26:51.664Z"
+    },
+    {
+      "id": "e1bfdcaf-1909-4f67-9f8c-cccb5b3cfdf2",
+      "kind": "youtube",
+      "videoId": "lKv57UX9XBM",
+      "title": "Ali Maula (MTV Unplugged Version)",
+      "author": "Salim Sulaiman Music",
+      "lengthSeconds": 455,
+      "videoThumbnails": [
+        {
+          "quality": "maxres",
+          "url": "https://inv.nadeko.net/vi/lKv57UX9XBM/maxres.jpg",
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "quality": "maxresdefault",
+          "url": "https://inv.nadeko.net/vi/lKv57UX9XBM/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "quality": "sddefault",
+          "url": "https://inv.nadeko.net/vi/lKv57UX9XBM/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        {
+          "quality": "high",
+          "url": "https://inv.nadeko.net/vi/lKv57UX9XBM/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        {
+          "quality": "medium",
+          "url": "https://inv.nadeko.net/vi/lKv57UX9XBM/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        {
+          "quality": "default",
+          "url": "https://inv.nadeko.net/vi/lKv57UX9XBM/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        {
+          "quality": "start",
+          "url": "https://inv.nadeko.net/vi/lKv57UX9XBM/1.jpg",
+          "width": 120,
+          "height": 90
+        },
+        {
+          "quality": "middle",
+          "url": "https://inv.nadeko.net/vi/lKv57UX9XBM/2.jpg",
+          "width": 120,
+          "height": 90
+        },
+        {
+          "quality": "end",
+          "url": "https://inv.nadeko.net/vi/lKv57UX9XBM/3.jpg",
+          "width": 120,
+          "height": 90
+        }
+      ],
+      "categoryId": "mahalaya",
+      "addedAt": "2026-10-06T13:26:51.664Z"
+    },
+    {
+      "id": "e92241e2-0726-48bb-8033-5154b3a229ae",
+      "kind": "youtube",
+      "videoId": "KTr-PcHXH2s",
+      "title": "Jimmy Choo (MTV Unplugged)",
+      "author": "Diljit Dosanjh",
+      "lengthSeconds": 235,
+      "videoThumbnails": [
+        {
+          "quality": "maxres",
+          "url": "https://inv.nadeko.net/vi/KTr-PcHXH2s/maxres.jpg",
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "quality": "maxresdefault",
+          "url": "https://inv.nadeko.net/vi/KTr-PcHXH2s/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "quality": "sddefault",
+          "url": "https://inv.nadeko.net/vi/KTr-PcHXH2s/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        {
+          "quality": "high",
+          "url": "https://inv.nadeko.net/vi/KTr-PcHXH2s/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        {
+          "quality": "medium",
+          "url": "https://inv.nadeko.net/vi/KTr-PcHXH2s/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        {
+          "quality": "default",
+          "url": "https://inv.nadeko.net/vi/KTr-PcHXH2s/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        {
+          "quality": "start",
+          "url": "https://inv.nadeko.net/vi/KTr-PcHXH2s/1.jpg",
+          "width": 120,
+          "height": 90
+        },
+        {
+          "quality": "middle",
+          "url": "https://inv.nadeko.net/vi/KTr-PcHXH2s/2.jpg",
+          "width": 120,
+          "height": 90
+        },
+        {
+          "quality": "end",
+          "url": "https://inv.nadeko.net/vi/KTr-PcHXH2s/3.jpg",
+          "width": 120,
+          "height": 90
+        }
+      ],
+      "categoryId": "mahalaya",
+      "addedAt": "2026-10-06T13:26:51.664Z"
+    },
+    {
+      "id": "204901bb-8c99-46ca-999d-288e96a6f941",
+      "kind": "youtube",
+      "videoId": "g8O2psauKg0",
+      "title": "Nain Parindey (Unplugged)",
+      "author": "Shilpa Rao",
+      "lengthSeconds": 320,
+      "videoThumbnails": [
+        {
+          "quality": "maxres",
+          "url": "https://inv.nadeko.net/vi/g8O2psauKg0/maxres.jpg",
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "quality": "maxresdefault",
+          "url": "https://inv.nadeko.net/vi/g8O2psauKg0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "quality": "sddefault",
+          "url": "https://inv.nadeko.net/vi/g8O2psauKg0/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        {
+          "quality": "high",
+          "url": "https://inv.nadeko.net/vi/g8O2psauKg0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        {
+          "quality": "medium",
+          "url": "https://inv.nadeko.net/vi/g8O2psauKg0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        {
+          "quality": "default",
+          "url": "https://inv.nadeko.net/vi/g8O2psauKg0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        {
+          "quality": "start",
+          "url": "https://inv.nadeko.net/vi/g8O2psauKg0/1.jpg",
+          "width": 120,
+          "height": 90
+        },
+        {
+          "quality": "middle",
+          "url": "https://inv.nadeko.net/vi/g8O2psauKg0/2.jpg",
+          "width": 120,
+          "height": 90
+        },
+        {
+          "quality": "end",
+          "url": "https://inv.nadeko.net/vi/g8O2psauKg0/3.jpg",
+          "width": 120,
+          "height": 90
+        }
+      ],
+      "categoryId": "mahalaya",
+      "addedAt": "2026-10-06T13:26:51.664Z"
+    },
+    {
+      "id": "3879c9fd-5679-4cfc-8670-9636c8026be6",
+      "kind": "youtube",
+      "videoId": "CN8eIdesjwk",
+      "title": "Tarkeebein (Unplugged)",
+      "author": "Benny Dayal",
+      "lengthSeconds": 273,
+      "videoThumbnails": [
+        {
+          "quality": "maxres",
+          "url": "https://inv.nadeko.net/vi/CN8eIdesjwk/maxres.jpg",
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "quality": "maxresdefault",
+          "url": "https://inv.nadeko.net/vi/CN8eIdesjwk/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "quality": "sddefault",
+          "url": "https://inv.nadeko.net/vi/CN8eIdesjwk/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        {
+          "quality": "high",
+          "url": "https://inv.nadeko.net/vi/CN8eIdesjwk/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        {
+          "quality": "medium",
+          "url": "https://inv.nadeko.net/vi/CN8eIdesjwk/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        {
+          "quality": "default",
+          "url": "https://inv.nadeko.net/vi/CN8eIdesjwk/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        {
+          "quality": "start",
+          "url": "https://inv.nadeko.net/vi/CN8eIdesjwk/1.jpg",
+          "width": 120,
+          "height": 90
+        },
+        {
+          "quality": "middle",
+          "url": "https://inv.nadeko.net/vi/CN8eIdesjwk/2.jpg",
+          "width": 120,
+          "height": 90
+        },
+        {
+          "quality": "end",
+          "url": "https://inv.nadeko.net/vi/CN8eIdesjwk/3.jpg",
+          "width": 120,
+          "height": 90
+        }
+      ],
+      "categoryId": "mahalaya",
+      "addedAt": "2026-10-06T13:26:51.664Z"
+    },
+    {
+      "id": "1c4c9bf3-d052-437e-b017-d8a1332dbafd",
+      "kind": "youtube",
+      "videoId": "Y506N3vSckc",
+      "title": "Main Hoon Hero Unplugged",
+      "author": "Armaan Malik",
+      "lengthSeconds": 244,
+      "videoThumbnails": [
+        {
+          "quality": "maxres",
+          "url": "https://inv.nadeko.net/vi/Y506N3vSckc/maxres.jpg",
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "quality": "maxresdefault",
+          "url": "https://inv.nadeko.net/vi/Y506N3vSckc/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "quality": "sddefault",
+          "url": "https://inv.nadeko.net/vi/Y506N3vSckc/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        {
+          "quality": "high",
+          "url": "https://inv.nadeko.net/vi/Y506N3vSckc/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        {
+          "quality": "medium",
+          "url": "https://inv.nadeko.net/vi/Y506N3vSckc/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        {
+          "quality": "default",
+          "url": "https://inv.nadeko.net/vi/Y506N3vSckc/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        {
+          "quality": "start",
+          "url": "https://inv.nadeko.net/vi/Y506N3vSckc/1.jpg",
+          "width": 120,
+          "height": 90
+        },
+        {
+          "quality": "middle",
+          "url": "https://inv.nadeko.net/vi/Y506N3vSckc/2.jpg",
+          "width": 120,
+          "height": 90
+        },
+        {
+          "quality": "end",
+          "url": "https://inv.nadeko.net/vi/Y506N3vSckc/3.jpg",
+          "width": 120,
+          "height": 90
+        }
+      ],
+      "categoryId": "mahalaya",
+      "addedAt": "2026-10-06T13:26:51.664Z"
+    },
+    {
+      "id": "d9386238-c692-4304-a15b-8c1967131f45",
+      "kind": "youtube",
+      "videoId": "XQaV3j4lVBs",
+      "title": "Main Rahoon Ya Na Rahoon Unplugged (feat. Armaan Malik)",
+      "author": "Amaal Mallik",
+      "lengthSeconds": 307,
+      "videoThumbnails": [
+        {
+          "quality": "maxres",
+          "url": "https://inv.nadeko.net/vi/XQaV3j4lVBs/maxres.jpg",
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "quality": "maxresdefault",
+          "url": "https://inv.nadeko.net/vi/XQaV3j4lVBs/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "quality": "sddefault",
+          "url": "https://inv.nadeko.net/vi/XQaV3j4lVBs/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        {
+          "quality": "high",
+          "url": "https://inv.nadeko.net/vi/XQaV3j4lVBs/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        {
+          "quality": "medium",
+          "url": "https://inv.nadeko.net/vi/XQaV3j4lVBs/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        {
+          "quality": "default",
+          "url": "https://inv.nadeko.net/vi/XQaV3j4lVBs/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        {
+          "quality": "start",
+          "url": "https://inv.nadeko.net/vi/XQaV3j4lVBs/1.jpg",
+          "width": 120,
+          "height": 90
+        },
+        {
+          "quality": "middle",
+          "url": "https://inv.nadeko.net/vi/XQaV3j4lVBs/2.jpg",
+          "width": 120,
+          "height": 90
+        },
+        {
+          "quality": "end",
+          "url": "https://inv.nadeko.net/vi/XQaV3j4lVBs/3.jpg",
+          "width": 120,
+          "height": 90
+        }
+      ],
+      "categoryId": "mahalaya",
+      "addedAt": "2026-10-06T13:26:51.664Z"
+    },
+    {
+      "id": "d90b85d5-ee50-44be-82cb-994e5a934bcb",
+      "kind": "youtube",
+      "videoId": "zLmpUkdQ2WU",
+      "title": "Roke Na Ruke Naina Unplugged",
+      "author": "Amaal Mallik",
+      "lengthSeconds": 320,
+      "videoThumbnails": [
+        {
+          "quality": "maxres",
+          "url": "https://inv.nadeko.net/vi/zLmpUkdQ2WU/maxres.jpg",
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "quality": "maxresdefault",
+          "url": "https://inv.nadeko.net/vi/zLmpUkdQ2WU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "quality": "sddefault",
+          "url": "https://inv.nadeko.net/vi/zLmpUkdQ2WU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        {
+          "quality": "high",
+          "url": "https://inv.nadeko.net/vi/zLmpUkdQ2WU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        {
+          "quality": "medium",
+          "url": "https://inv.nadeko.net/vi/zLmpUkdQ2WU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        {
+          "quality": "default",
+          "url": "https://inv.nadeko.net/vi/zLmpUkdQ2WU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        {
+          "quality": "start",
+          "url": "https://inv.nadeko.net/vi/zLmpUkdQ2WU/1.jpg",
+          "width": 120,
+          "height": 90
+        },
+        {
+          "quality": "middle",
+          "url": "https://inv.nadeko.net/vi/zLmpUkdQ2WU/2.jpg",
+          "width": 120,
+          "height": 90
+        },
+        {
+          "quality": "end",
+          "url": "https://inv.nadeko.net/vi/zLmpUkdQ2WU/3.jpg",
+          "width": 120,
+          "height": 90
+        }
+      ],
+      "categoryId": "mahalaya",
+      "addedAt": "2026-10-06T13:26:51.664Z"
+    },
+    {
+      "id": "637b92a1-6de5-471c-b6a9-421474b69f6f",
+      "kind": "youtube",
+      "videoId": "EvOaBZhdWL4",
+      "title": "Sab Tera Unplugged",
+      "author": "Armaan Malik",
+      "lengthSeconds": 283,
+      "videoThumbnails": [
+        {
+          "quality": "maxres",
+          "url": "https://inv.nadeko.net/vi/EvOaBZhdWL4/maxres.jpg",
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "quality": "maxresdefault",
+          "url": "https://inv.nadeko.net/vi/EvOaBZhdWL4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "quality": "sddefault",
+          "url": "https://inv.nadeko.net/vi/EvOaBZhdWL4/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        {
+          "quality": "high",
+          "url": "https://inv.nadeko.net/vi/EvOaBZhdWL4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        {
+          "quality": "medium",
+          "url": "https://inv.nadeko.net/vi/EvOaBZhdWL4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        {
+          "quality": "default",
+          "url": "https://inv.nadeko.net/vi/EvOaBZhdWL4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        {
+          "quality": "start",
+          "url": "https://inv.nadeko.net/vi/EvOaBZhdWL4/1.jpg",
+          "width": 120,
+          "height": 90
+        },
+        {
+          "quality": "middle",
+          "url": "https://inv.nadeko.net/vi/EvOaBZhdWL4/2.jpg",
+          "width": 120,
+          "height": 90
+        },
+        {
+          "quality": "end",
+          "url": "https://inv.nadeko.net/vi/EvOaBZhdWL4/3.jpg",
+          "width": 120,
+          "height": 90
+        }
+      ],
+      "categoryId": "mahalaya",
+      "addedAt": "2026-10-06T13:26:51.664Z"
+    },
+    {
+      "id": "49a9e34b-381e-4dee-b22e-f6d5901713c0",
+      "kind": "youtube",
+      "videoId": "awINawm4Fps",
+      "title": "Tere Mere Unplugged",
+      "author": "Armaan Malik",
+      "lengthSeconds": 271,
+      "videoThumbnails": [
+        {
+          "quality": "maxres",
+          "url": "https://inv.nadeko.net/vi/awINawm4Fps/maxres.jpg",
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "quality": "maxresdefault",
+          "url": "https://inv.nadeko.net/vi/awINawm4Fps/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "quality": "sddefault",
+          "url": "https://inv.nadeko.net/vi/awINawm4Fps/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        {
+          "quality": "high",
+          "url": "https://inv.nadeko.net/vi/awINawm4Fps/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        {
+          "quality": "medium",
+          "url": "https://inv.nadeko.net/vi/awINawm4Fps/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        {
+          "quality": "default",
+          "url": "https://inv.nadeko.net/vi/awINawm4Fps/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        {
+          "quality": "start",
+          "url": "https://inv.nadeko.net/vi/awINawm4Fps/1.jpg",
+          "width": 120,
+          "height": 90
+        },
+        {
+          "quality": "middle",
+          "url": "https://inv.nadeko.net/vi/awINawm4Fps/2.jpg",
+          "width": 120,
+          "height": 90
+        },
+        {
+          "quality": "end",
+          "url": "https://inv.nadeko.net/vi/awINawm4Fps/3.jpg",
+          "width": 120,
+          "height": 90
+        }
+      ],
+      "categoryId": "mahalaya",
+      "addedAt": "2026-10-06T13:26:51.664Z"
+    },
+    {
+      "id": "362df798-4558-49c1-98b9-80aba3d9e442",
+      "kind": "youtube",
+      "videoId": "i-EXgX279wU",
+      "title": "Galliyan",
+      "author": "Ankit Tiwari",
+      "lengthSeconds": 341,
+      "videoThumbnails": [
+        {
+          "quality": "maxres",
+          "url": "https://inv.nadeko.net/vi/i-EXgX279wU/maxres.jpg",
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "quality": "maxresdefault",
+          "url": "https://inv.nadeko.net/vi/i-EXgX279wU/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "quality": "sddefault",
+          "url": "https://inv.nadeko.net/vi/i-EXgX279wU/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        {
+          "quality": "high",
+          "url": "https://inv.nadeko.net/vi/i-EXgX279wU/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        {
+          "quality": "medium",
+          "url": "https://inv.nadeko.net/vi/i-EXgX279wU/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        {
+          "quality": "default",
+          "url": "https://inv.nadeko.net/vi/i-EXgX279wU/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        {
+          "quality": "start",
+          "url": "https://inv.nadeko.net/vi/i-EXgX279wU/1.jpg",
+          "width": 120,
+          "height": 90
+        },
+        {
+          "quality": "middle",
+          "url": "https://inv.nadeko.net/vi/i-EXgX279wU/2.jpg",
+          "width": 120,
+          "height": 90
+        },
+        {
+          "quality": "end",
+          "url": "https://inv.nadeko.net/vi/i-EXgX279wU/3.jpg",
+          "width": 120,
+          "height": 90
+        }
+      ],
+      "categoryId": "mahalaya",
+      "addedAt": "2026-10-06T13:26:51.664Z"
+    },
+    {
+      "id": "bfc8830b-9283-49f3-aee9-fcf730febfff",
+      "kind": "youtube",
+      "videoId": "62GxPVJDlv4",
+      "title": "Kuchh Toh Hua Hai",
+      "author": "Ankit Tiwari",
+      "lengthSeconds": 372,
+      "videoThumbnails": [
+        {
+          "quality": "maxres",
+          "url": "https://inv.nadeko.net/vi/62GxPVJDlv4/maxres.jpg",
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "quality": "maxresdefault",
+          "url": "https://inv.nadeko.net/vi/62GxPVJDlv4/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "quality": "sddefault",
+          "url": "https://inv.nadeko.net/vi/62GxPVJDlv4/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        {
+          "quality": "high",
+          "url": "https://inv.nadeko.net/vi/62GxPVJDlv4/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        {
+          "quality": "medium",
+          "url": "https://inv.nadeko.net/vi/62GxPVJDlv4/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        {
+          "quality": "default",
+          "url": "https://inv.nadeko.net/vi/62GxPVJDlv4/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        {
+          "quality": "start",
+          "url": "https://inv.nadeko.net/vi/62GxPVJDlv4/1.jpg",
+          "width": 120,
+          "height": 90
+        },
+        {
+          "quality": "middle",
+          "url": "https://inv.nadeko.net/vi/62GxPVJDlv4/2.jpg",
+          "width": 120,
+          "height": 90
+        },
+        {
+          "quality": "end",
+          "url": "https://inv.nadeko.net/vi/62GxPVJDlv4/3.jpg",
+          "width": 120,
+          "height": 90
+        }
+      ],
+      "categoryId": "mahalaya",
+      "addedAt": "2026-10-06T13:26:51.664Z"
+    },
+    {
+      "id": "e219ebb9-b6d7-4878-94e8-35e235becfd5",
+      "kind": "youtube",
+      "videoId": "kPVaDpbfxgA",
+      "title": "Sheeshe Ka Samundar",
+      "author": "Ankit Tiwari",
+      "lengthSeconds": 314,
+      "videoThumbnails": [
+        {
+          "quality": "maxres",
+          "url": "https://inv.nadeko.net/vi/kPVaDpbfxgA/maxres.jpg",
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "quality": "maxresdefault",
+          "url": "https://inv.nadeko.net/vi/kPVaDpbfxgA/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "quality": "sddefault",
+          "url": "https://inv.nadeko.net/vi/kPVaDpbfxgA/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        {
+          "quality": "high",
+          "url": "https://inv.nadeko.net/vi/kPVaDpbfxgA/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        {
+          "quality": "medium",
+          "url": "https://inv.nadeko.net/vi/kPVaDpbfxgA/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        {
+          "quality": "default",
+          "url": "https://inv.nadeko.net/vi/kPVaDpbfxgA/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        {
+          "quality": "start",
+          "url": "https://inv.nadeko.net/vi/kPVaDpbfxgA/1.jpg",
+          "width": 120,
+          "height": 90
+        },
+        {
+          "quality": "middle",
+          "url": "https://inv.nadeko.net/vi/kPVaDpbfxgA/2.jpg",
+          "width": 120,
+          "height": 90
+        },
+        {
+          "quality": "end",
+          "url": "https://inv.nadeko.net/vi/kPVaDpbfxgA/3.jpg",
+          "width": 120,
+          "height": 90
+        }
+      ],
+      "categoryId": "mahalaya",
+      "addedAt": "2026-10-06T13:26:51.664Z"
+    },
+    {
+      "id": "4c10bebd-9f49-4dc6-b1b6-ed0ec51038d7",
+      "kind": "youtube",
+      "videoId": "96iliMx3f_M",
+      "title": "Duma Dum",
+      "author": "Sonu Kakkar",
+      "lengthSeconds": 277,
+      "videoThumbnails": [
+        {
+          "quality": "maxres",
+          "url": "https://inv.nadeko.net/vi/96iliMx3f_M/maxres.jpg",
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "quality": "maxresdefault",
+          "url": "https://inv.nadeko.net/vi/96iliMx3f_M/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "quality": "sddefault",
+          "url": "https://inv.nadeko.net/vi/96iliMx3f_M/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        {
+          "quality": "high",
+          "url": "https://inv.nadeko.net/vi/96iliMx3f_M/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        {
+          "quality": "medium",
+          "url": "https://inv.nadeko.net/vi/96iliMx3f_M/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        {
+          "quality": "default",
+          "url": "https://inv.nadeko.net/vi/96iliMx3f_M/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        {
+          "quality": "start",
+          "url": "https://inv.nadeko.net/vi/96iliMx3f_M/1.jpg",
+          "width": 120,
+          "height": 90
+        },
+        {
+          "quality": "middle",
+          "url": "https://inv.nadeko.net/vi/96iliMx3f_M/2.jpg",
+          "width": 120,
+          "height": 90
+        },
+        {
+          "quality": "end",
+          "url": "https://inv.nadeko.net/vi/96iliMx3f_M/3.jpg",
+          "width": 120,
+          "height": 90
+        }
+      ],
+      "categoryId": "mahalaya",
+      "addedAt": "2026-10-06T13:26:51.664Z"
+    },
+    {
+      "id": "f3729b58-354a-4f30-8715-395dbdbeccbb",
+      "kind": "youtube",
+      "videoId": "2K1b4qV2EB0",
+      "title": "Dhak Dhak",
+      "author": "Rachel Varghese - Topic",
+      "lengthSeconds": 246,
+      "videoThumbnails": [
+        {
+          "quality": "maxres",
+          "url": "https://inv.nadeko.net/vi/2K1b4qV2EB0/maxres.jpg",
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "quality": "maxresdefault",
+          "url": "https://inv.nadeko.net/vi/2K1b4qV2EB0/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "quality": "sddefault",
+          "url": "https://inv.nadeko.net/vi/2K1b4qV2EB0/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        {
+          "quality": "high",
+          "url": "https://inv.nadeko.net/vi/2K1b4qV2EB0/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        {
+          "quality": "medium",
+          "url": "https://inv.nadeko.net/vi/2K1b4qV2EB0/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        {
+          "quality": "default",
+          "url": "https://inv.nadeko.net/vi/2K1b4qV2EB0/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        {
+          "quality": "start",
+          "url": "https://inv.nadeko.net/vi/2K1b4qV2EB0/1.jpg",
+          "width": 120,
+          "height": 90
+        },
+        {
+          "quality": "middle",
+          "url": "https://inv.nadeko.net/vi/2K1b4qV2EB0/2.jpg",
+          "width": 120,
+          "height": 90
+        },
+        {
+          "quality": "end",
+          "url": "https://inv.nadeko.net/vi/2K1b4qV2EB0/3.jpg",
+          "width": 120,
+          "height": 90
+        }
+      ],
+      "categoryId": "mahalaya",
+      "addedAt": "2026-10-06T13:26:51.664Z"
+    },
+    {
+      "id": "3374d3bc-e7ad-4b8e-8d31-1eae610fd02c",
+      "kind": "youtube",
+      "videoId": "HuZ9YtVgadg",
+      "title": "Banjaara",
+      "author": "Mohammed Irfan",
+      "lengthSeconds": 243,
+      "videoThumbnails": [
+        {
+          "quality": "maxres",
+          "url": "https://inv.nadeko.net/vi/HuZ9YtVgadg/maxres.jpg",
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "quality": "maxresdefault",
+          "url": "https://inv.nadeko.net/vi/HuZ9YtVgadg/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "quality": "sddefault",
+          "url": "https://inv.nadeko.net/vi/HuZ9YtVgadg/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        {
+          "quality": "high",
+          "url": "https://inv.nadeko.net/vi/HuZ9YtVgadg/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        {
+          "quality": "medium",
+          "url": "https://inv.nadeko.net/vi/HuZ9YtVgadg/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        {
+          "quality": "default",
+          "url": "https://inv.nadeko.net/vi/HuZ9YtVgadg/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        {
+          "quality": "start",
+          "url": "https://inv.nadeko.net/vi/HuZ9YtVgadg/1.jpg",
+          "width": 120,
+          "height": 90
+        },
+        {
+          "quality": "middle",
+          "url": "https://inv.nadeko.net/vi/HuZ9YtVgadg/2.jpg",
+          "width": 120,
+          "height": 90
+        },
+        {
+          "quality": "end",
+          "url": "https://inv.nadeko.net/vi/HuZ9YtVgadg/3.jpg",
+          "width": 120,
+          "height": 90
+        }
+      ],
+      "categoryId": "mahalaya",
+      "addedAt": "2026-10-06T13:26:51.664Z"
+    },
+    {
+      "id": "cbbd6c8d-8d11-4610-a96e-d1e40e1b0cf1",
+      "kind": "youtube",
+      "videoId": "WPRLumkAaXw",
+      "title": "Baarish",
+      "author": "Mohammed Irfan",
+      "lengthSeconds": 379,
+      "videoThumbnails": [
+        {
+          "quality": "maxres",
+          "url": "https://inv.nadeko.net/vi/WPRLumkAaXw/maxres.jpg",
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "quality": "maxresdefault",
+          "url": "https://inv.nadeko.net/vi/WPRLumkAaXw/maxresdefault.jpg",
+          "width": 1280,
+          "height": 720
+        },
+        {
+          "quality": "sddefault",
+          "url": "https://inv.nadeko.net/vi/WPRLumkAaXw/sddefault.jpg",
+          "width": 640,
+          "height": 480
+        },
+        {
+          "quality": "high",
+          "url": "https://inv.nadeko.net/vi/WPRLumkAaXw/hqdefault.jpg",
+          "width": 480,
+          "height": 360
+        },
+        {
+          "quality": "medium",
+          "url": "https://inv.nadeko.net/vi/WPRLumkAaXw/mqdefault.jpg",
+          "width": 320,
+          "height": 180
+        },
+        {
+          "quality": "default",
+          "url": "https://inv.nadeko.net/vi/WPRLumkAaXw/default.jpg",
+          "width": 120,
+          "height": 90
+        },
+        {
+          "quality": "start",
+          "url": "https://inv.nadeko.net/vi/WPRLumkAaXw/1.jpg",
+          "width": 120,
+          "height": 90
+        },
+        {
+          "quality": "middle",
+          "url": "https://inv.nadeko.net/vi/WPRLumkAaXw/2.jpg",
+          "width": 120,
+          "height": 90
+        },
+        {
+          "quality": "end",
+          "url": "https://inv.nadeko.net/vi/WPRLumkAaXw/3.jpg",
+          "width": 120,
+          "height": 90
+        }
+      ],
+      "categoryId": "mahalaya",
+      "addedAt": "2026-10-06T13:26:51.664Z"
+    }
+  ]
+}

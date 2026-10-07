@@ -1,0 +1,73 @@
+lockfileVersion: '9.0'
+
+settings:
+  autoInstallPeers: true
+  excludeLinksFromLockfile: false
+
+importers:
+
+  .:
+    dependencies:
+      '@zcatalyst/auth':
+        specifier: ^1.0.0
+        version: 1.0.0
+      '@zcatalyst/datastore':
+        specifier: ^1.0.0
+        version: 1.0.0
+
+packages:
+
+  '@zcatalyst/auth-admin@1.0.0':
+    resolution: {integrity: sha512-YY2keEr65wmghlkgZYjwrA3GalCqxTfdikfGB8x8H67QN9WYSiZKqA9EfH7sj95aztGkKCRei8+qksq/PAv5wQ==}
+    engines: {node: '>=22'}
+
+  '@zcatalyst/auth-client@1.0.0':
+    resolution: {integrity: sha512-+jLbHUMFuk4kch5Pw8s0y8c3U/c0B2kcOEWAK/m5BnMx8GMdu+L+3q51oJrNSzJ4MB11qyDbnHx3avcJXmV6kA==}
+    engines: {node: '>=22'}
+
+  '@zcatalyst/auth@1.0.0':
+    resolution: {integrity: sha512-Qih+vp6e4VpLwHqWiuPQikqT2qFqqqlReW+XE2fkdLkS8X2oJ9C4bS5dAbkMUWM2JCZpwSoMVjxfFoBSXF9hCw==}
+    engines: {node: '>=22'}
+
+  '@zcatalyst/datastore@1.0.0':
+    resolution: {integrity: sha512-cYtQT7krDqWQLermdmwCoU5zLtmpR/9WTsALYtbFMsfvUkYpgs2zNkImvTxcrK0Dr+X5pCGR2o7GGTtTMvIjqQ==}
+    engines: {node: '>=22'}
+
+  '@zcatalyst/transport@1.0.0':
+    resolution: {integrity: sha512-MYPBiid41uzEThvCutS2UiC/xwBqL4hlaabtIPDTEbWw8naDDHBFGAMWtWuzR5r2kGkHJT/VVyGWMQ+lImQNVQ==}
+    engines: {node: '>=22'}
+
+  '@zcatalyst/utils@1.0.0':
+    resolution: {integrity: sha512-G+tqnZYdWuCeiBKayYOLlTFlJp4pF8GuB0upxjcV0h5tK9du6Oafa6whjUakWrpverJQ5UePbV6ecjcwXSvsLw==}
+    engines: {node: '>=22'}
+
+snapshots:
+
+  '@zcatalyst/auth-admin@1.0.0':
+    dependencies:
+      '@zcatalyst/utils': 1.0.0
+
+  '@zcatalyst/auth-client@1.0.0':
+    dependencies:
+      '@zcatalyst/utils': 1.0.0
+
+  '@zcatalyst/auth@1.0.0':
+    dependencies:
+      '@zcatalyst/auth-admin': 1.0.0
+      '@zcatalyst/auth-client': 1.0.0
+      '@zcatalyst/transport': 1.0.0
+      '@zcatalyst/utils': 1.0.0
+
+  '@zcatalyst/datastore@1.0.0':
+    dependencies:
+      '@zcatalyst/auth-client': 1.0.0
+      '@zcatalyst/transport': 1.0.0
+      '@zcatalyst/utils': 1.0.0
+
+  '@zcatalyst/transport@1.0.0':
+    dependencies:
+      '@zcatalyst/auth-admin': 1.0.0
+      '@zcatalyst/auth-client': 1.0.0
+      '@zcatalyst/utils': 1.0.0
+
+  '@zcatalyst/utils@1.0.0': {}
